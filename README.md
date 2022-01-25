@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on your open source project.
 - 📫 How to reach me: trainfarb@gmail.com
 
-Reach out if you want to collaborate. I legit love helping people bring their ideas to life. 
+Reach out if you want to collaborate. I'm pumped to help you bring your creative ideas to life. 
 
 b0mission 
 - ourStory.network onboarding

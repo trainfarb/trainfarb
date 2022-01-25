@@ -4,6 +4,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+TSOBTC
+- Design curriculum with polymathProcess
+- Integrate with Bitcoin Design Community
+- Create BAO/DAO (mixtapeMythology) for TSOBTC
+- Create beatDrop for NYC
+- Create beatDrop for MIA
+- Create beatDrop for CHI
+- Create beatDrop for Flint Michigan
+
 EF (NFT strategy and development)
 - Platform Design
 - Project Strategy

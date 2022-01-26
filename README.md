@@ -16,7 +16,11 @@ b1community
 
 b2media
 - Brand Design
-- Contant Strategy
+- Content Strategy
+
+b3now
+- NFT Marketplace Design/Development
+- Ad campaign strategy
 
 b4portfolio
 - Semplice (Wordpress) Website Design/Development

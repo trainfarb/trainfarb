@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @trainfarb
-- 👀 I’m interested in biomimicry and becoming a cartoonist.
+- 👀 I’m interested in biomimicry.
 - 🌱 I’m currently learning how to design specialized blockchains.
 - 💞️ I’m looking to collaborate on your open source project.
 - 📫 How to reach me: trainfarb@gmail.com
 
-Reach out if you want to collaborate. I'm pumped to help you bring your creative ideas to life. 
+Below are ways I like helping teams create well rounded brand strategies.
 
 b0mission 
 - ourStory.network onboarding

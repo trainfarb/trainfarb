@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on your open source project.
 - 📫 How to reach me: trainfarb@gmail.com
 
-Below are ways I like helping teams create well rounded brand strategies.
+Below are ways I like helping teams create well rounded brand strategies. I create loom videos for as much as I can to help others follow along as I fumble through what I learn.
 
 b0mission 
 - ourStory.network onboarding

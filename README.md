@@ -8,14 +8,14 @@ Below are ways I like helping teams create well rounded brand strategies.
 
 b0mission 
 - ourStory.network onboarding
-- Project Stratagy/Shamanism
+- Brand Stratagy
 
 b1community
 - Open Source Community (BAO/DAO) Consulting
 - Urban Planning & Development
 
 b2media
-- Brand Design
+- Brand/Meme Design
 - Content Strategy
 
 b3now
@@ -40,7 +40,7 @@ b7learn
 
 b8game
 - Game Designer & Developer
-- GitHub Consultant
+- GitHub Open-Source Consultant
 
 
 TSOBTC

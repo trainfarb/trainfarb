@@ -43,6 +43,9 @@ b8game
 - GitHub Open-Source Consultant
 
 
+ATHR
+- Create public experiment for creating open-source community
+
 TSOBTC
 - Design curriculum with polymathProcess
 - Integrate with Bitcoin Design Community

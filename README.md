@@ -16,7 +16,7 @@ b1community
 
 b2media
 - Brand/Meme Design
-- Content Strategy
+- Content Strategy/Marketing Operations
 
 b3now
 - NFT Marketplace Design/Development

@@ -12,6 +12,7 @@ Below are ways I like helping freelancers and teams develop well rounded ecosyst
 My aim is to use The Polymath Protocol to help you organize your ideas and present your vision so you can find a community that will help bring your ideas to life. If you are a brand/team/DAO, we'll use this framework to help you explore and grow your idea from 10 different perspectives. If you're a freelancer, we'll use this framework to identify how you can add value to existing communities using The Polymath Protocol.
 
 ### Developer Experience Engineer (b0mission)
+- Web3 Creator Onboarding
 - Help individuals and brands develop focused open source mission statements
 - Onboard people and brands to the ourStory.network
 
@@ -46,7 +47,8 @@ My aim is to use The Polymath Protocol to help you organize your ideas and prese
 - Blockchain/Marketplace Design/Development
 
 ### b5essay
-- Whitepaper Research and Analysis
+- Whitepaper/Litepaper Research and Development
+- 
 - Litepaper Strategy and Development
 
 ### b6story

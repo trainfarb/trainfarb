@@ -18,6 +18,7 @@ My aim is to use The Polymath Protocol to help you organize your ideas and prese
 ### b1community (Ecosystem Strategist)
 - Project Roadmap Development and Management
 - DAO Token Engineering
+- Gnosis Safe Setup and Management
 - Cross-Community Collaboration Strategies
 - Community Growth Strategies
 - Urban Planning & Development
@@ -35,6 +36,8 @@ My aim is to use The Polymath Protocol to help you organize your ideas and prese
   - Mentorship
 
 ### b3now
+- NFT Minting dApps
+  - https://nft.griotenterprises.com/heroes/meet-the-horsemen-20th-anniversary-nft-collection
 - NFT Marketplace Design/Development
 - Ad campaign strategy
 

@@ -1,46 +1,66 @@
 - 👋 Hi, I’m @trainfarb
-- 👀 I’m interested in biomimicry.
+- 👀 I’m interested in using biomimicry to help people turn visions into DAOs, projects into subDAOs, and contributors into communities. I want to help redefine how people design, develop, and grow meaningful open source communities.
 - 🌱 I’m currently learning how to design specialized blockchains.
 - 💞️ I’m looking to collaborate on your open source project.
 - 📫 How to reach me: trainfarb@gmail.com
 
-Below are ways I like helping teams create well rounded brand strategies. I create loom videos for as much as I can to help others follow along as I fumble through what I learn.
+## My DevRel Job Titles (The Polymath Protocol)
+Below are ways I like helping freelancers and teams develop well rounded ecosystems.  10-part system serves two purposes:
+(1) Help brands and DAOs create comprehensive strategies for their open source ecosystems
+(2) Provide clarity to freelancers and open source contributors for how they can contribute
 
-b0mission 
-- ourStory.network onboarding
-- Brand Stratagy
+My aim is to use The Polymath Protocol to help you organize your ideas and present your vision so you can find a community that will help bring your ideas to life. 
 
-b1community
-- Open Source Community (BAO/DAO) Consulting
+### Developer Experience Engineer (b0mission)
+- Help individuals and brands develop focused open source mission statements
+- Onboard people and brands to the ourStory.network
+
+### b1community (Ecosystem Strategist)
+- Project Roadmap Development and Management
+- DAO Token Engineering
+- Cross-Community Collaboration Strategies
+- Community Growth Strategies
 - Urban Planning & Development
 
-b2media
-- Brand/Meme Design
+### b2media (B2C/B2B Content Marketing Manager)
+- Develop Comprehensive Content Strategies across various social media platforms
+- Develop editorial calendars for content planning and distribution
+- Develop brand identity to encourage open source contributors to join the team
 - Content Strategy/Marketing Operations
+- Develop co-marketing relationships with other DAOs
+- Implement joint marketing plans to deliver win-wins for partnerhships
+- Increase engagement by identifying and highlighting community expertise
+  - Thought Leadership
+  - Content contributions
+  - Mentorship
 
-b3now
+### b3now
 - NFT Marketplace Design/Development
 - Ad campaign strategy
 
-b4portfolio
+### b4portfolio
 - Semplice (Wordpress) Website Design/Development
 - Blockchain/Marketplace Design/Development
 
-b5essay
+### b5essay
 - Whitepaper Research and Analysis
 - Litepaper Strategy and Development
 
-b6story
+### b6story
 - Creative Writing Prompts
+- Storyboard 
 - Cartoonist (Comics & Animation Shorts)
 
-b7learn
+### b7learn (Developer Experience Engineer)
 - polymathProcess Syllabus (beatDrop) Design & Development
 - polymathProcess Curriculum (epicPlaylist) Design & Development
 
-b8game
+### b8game
 - Game Designer & Developer
 - GitHub Open-Source Consultant
+
+### b9journal
+- Manage project workflows and processes
 
 
 ATHR

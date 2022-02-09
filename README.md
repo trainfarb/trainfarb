@@ -6,8 +6,8 @@
 
 ## My DevRel Job Titles (The Polymath Protocol)
 Below are ways I like helping freelancers and teams develop well rounded ecosystems.  10-part system serves two purposes:
-1. Help teams create DAOs and/or subDAOs with a consistent outline that promotes cross-community collaboration
-2. Help freelancers understand how they can add value and grow their portfolios with a DAO using The Polymath Protocol
+1. Help teams organize their DAOs and/or subDAOs with a consistent outline to facilitate onboarding and cross-community collaboration
+2. Help individuals position themselves so they can effectively add value and grow their Web3 portfolios
 
 My aim is to use The Polymath Protocol to help you organize your ideas and present your vision so you can find a community that will help bring your ideas to life. If you are a brand/team/DAO, we'll use this framework to help you explore and grow your idea from 10 different perspectives. If you're a freelancer, we'll use this framework to identify how you can add value to existing communities using The Polymath Protocol.
 

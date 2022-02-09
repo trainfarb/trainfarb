@@ -6,10 +6,10 @@
 
 ## My DevRel Job Titles (The Polymath Protocol)
 Below are ways I like helping freelancers and teams develop well rounded ecosystems.  10-part system serves two purposes:
-(1) Help brands and DAOs create comprehensive strategies for their open source ecosystems
-(2) Provide clarity to freelancers and open source contributors for how they can contribute
+1. Help teams create DAOs and/or subDAOs with a consistent outline that promotes cross-community collaboration
+2. Help freelancers understand how they can add value and grow their portfolios with a DAO using The Polymath Protocol
 
-My aim is to use The Polymath Protocol to help you organize your ideas and present your vision so you can find a community that will help bring your ideas to life. 
+My aim is to use The Polymath Protocol to help you organize your ideas and present your vision so you can find a community that will help bring your ideas to life. If you are a brand/team/DAO, we'll use this framework to help you explore and grow your idea from 10 different perspectives. If you're a freelancer, we'll use this framework to identify how you can add value to existing communities using The Polymath Protocol.
 
 ### Developer Experience Engineer (b0mission)
 - Help individuals and brands develop focused open source mission statements

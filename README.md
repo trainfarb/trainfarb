@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @trainfarb
-- 👀 I’m interested in using biomimicry to help people turn visions into DAOs, projects into subDAOs, and contributors into communities. I want to help redefine how people design, develop, and grow meaningful open source communities.
+Oh hi. 
+trainfarb here. 
+Gonna use this as my website I think.
+I've liked journaling since I was a kid...I blame Doug Funny.
+
+LinkedIn | Twitter | Instagram 
+
+I’m interested in using biomimicry to help people turn visions into DAOs, projects into subDAOs, and themselves into communities. I want to help redefine how people design, develop, and grow meaningful open source communities.
 - 🌱 I’m currently learning how to design specialized blockchains.
 - 💞️ I’m looking to collaborate on your open source project.
 - 📫 How to reach me: trainfarb@gmail.com
@@ -66,6 +72,14 @@ My aim is to use The Polymath Protocol to help you organize your ideas and prese
 
 ### b9journal
 - Manage project workflows and processes
+
+## Case Studies in Progress:
+ourStory: Everything is Music
+huStory: Are We Right?
+Elephant & Falcon
+The School of Bitcoin
+AtHR
+
 
 
 ATHR

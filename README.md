@@ -76,9 +76,26 @@ My aim is to use The Polymath Protocol to help you organize your ideas and prese
 ## Case Studies in Progress:
 ourStory: Everything is Music
 huStory: Are We Right?
+trainfarb
+Learn Biomimicry
+R&R Chicago
+DEG Enterprises
+JR's Joyous Creations
+Nicole's Magic
+Make Light of It (MLOI)
+My Father's House
+Quantum Memoir
 Elephant & Falcon
 The School of Bitcoin
 AtHR
+Healthy Intentions
+MATADOR
+THINK LIKE A GOD
+
+
+## Future Case Studies:
+Jain 108 Academy
+Robert Edward Grant
 
 
 

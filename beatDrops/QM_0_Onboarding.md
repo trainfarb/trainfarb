@@ -1,43 +1,43 @@
-#### The School of Bitcoin | TSOBTC DAO Curriculum API
+#### Quantum Memoir | QM API
 
 Below is the API structure developed by The School of Bitcoin that will enable students to form DAOs for their project based learning. 
 
 ```
 project: {
-  bioMemeticRecordStore:             "TSOBTC DAO Curriculum API",
-  bioMemeticOrganization:            "The School of Bitcoin",
-  [department?]:                     "[Curriculum Design?]",
-  projectName:                       "[DAO Concept Design]",
+  bioMemeticRecordStore:             "QM API",
+  bioMemeticOrganization:            "Quantum Memoir",
+  [department?]:                     "[Onboarding]",
+  projectName:                       "[TBD]",
   mission: {
     lesson:                          "l0background",
     l0v0ego: {
       institutionQuestion:           "What societal system do you want to explore? (ex. language, mass media, economic, etc.)"
-      institution:                   "[economic?]",
+      institution:                   "language",
       collectiveChallengeQuestion:   "Can you name a challenge that is created by the institution you selected? (ex. polarization, division, tribalism, etc.)"
-      collectiveChallenge:           "[centralization?]",
+      collectiveChallenge:           "preconcieved notion",
       collectiveEgoQuestion:         "What do you think is causing the challenge you selected? (ex. fear, confusion, anger, etc.)"
-      collectiveEgo:                 "[greed?]",
-      bookEgoTitle:                  "[The Bitcoin Standard?]",
-      bookEgoAuthor:                 "[Saifedean Ammous?]",
-      gr0v0Thesis:                   "[__[Greed?]__ in our __[economic?]__ institution is leading to more __centralization__. We're learning from __[The Bitcoin Standard?]__ by __[Saifedean Ammous?]__ to develop our perspective.?]"
+      collectiveEgo:                 "lack and fear",
+      bookEgoTitle:                  "Becoming Superhuman",
+      bookEgoAuthor:                 "Dr. Joe Dispenza",
+      gr0v0Thesis:                   "[__lack and fear__ in our __language__ institution is leading to more __preconcieved notion__. We're learning from __Becoming Supernatural__ by __Dr. Joe Dispenza__ to develop our perspective.?]"
     },
     l0v1biomimicry: {
-      natureMentor:                  "[Leafcutter Ants?]",
-      mentorBenefit:                 "growth",
-      bookBioTitle:                  "Tao Te Ching",
-      bookBioAuthor:                 "Lao Tzu (Stephen Mitchell Translation)",
-      gr0v1Output:                   "We're learning from __[Leafcutter Ants?]__ to develop innovative alternatives to __[centralization?]__. We're learning from __The Leafcutter Ants: Civilization by Instinct__ by __Bert Holldobler, Edward O. Wilson__ as inspiration for biomimetic experiments."
+      natureMentor:                  "forest",
+      mentorBenefit:                 "clarity",
+      bookBioTitle:                  "Spirit Animals of the Sacred Woods",
+      bookBioAuthor:                 "RM Bodhi",
+      gr0v1Output:                   "We're learning from __forests__ to develop innovative alternatives to __preconcieved notions__. We're learning from __Spirit Animals of the Sacred Woods__ by __RM Bodhi__ as inspiration for biomimetic experiments."
     },
     l0v2willpower: {
-      goal:                          "[decentralized autonomous education system (DAES)?]",
-      bookWillTitle:                 "[Limitless?]",
-      bookWillAuthor:                "[Jim Kwik?]",
-      gr0v2Output:                   "The experiments we create will explore how we can create a __[autodidactism?__. We're learning from __[Limitless?]__ by __[Jim Kwik?]__ remind people of their untapped potential."
+      goal:                          "inspire other people to heal others with the QM process - make sure people understand the process so it can take off on its own",
+      bookWillTitle:                 "The Quantum MeMoir Theory",
+      bookWillAuthor:                "Malee Muse",
+      gr0v2Output:                   "The experiments we create will explore how we can generate a __thriving environment for humanity__. We're learning from __The Quantum MeMoir Theory__ by __Malee Muse__ remind people of their untapped potential."
     },
     l0v3song: {
-      songTitle:                     "[School's Out?]",
-      songArtist:                    "[Alice Cooper?]",
-      gr0v3song:                     "__[School's Out?]__ by __[Alice Cooper?]__ represents our project's mission."
+      songTitle:                     "All Things Must Pass",
+      songArtist:                    "George Harrison",
+      gr0v3song:                     "__All Things Must Pass__ by __George Harrison__ symbolize our project's mission."
     }
   },
   roadmap: {

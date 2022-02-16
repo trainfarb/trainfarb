@@ -1,6 +1,6 @@
 #### Quantum Memoir | QM API
 
-Below is the API structure developed by The School of Bitcoin that will enable students to form DAOs for their project based learning. 
+Below is the API structure developed by Quantum MeMoir that will enable people to develop their own course with the form. 
 
 ```
 epicPlaylist: {

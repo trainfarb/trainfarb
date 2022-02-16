@@ -3,14 +3,14 @@
 Below is the API structure developed by The School of Bitcoin that will enable students to form DAOs for their project based learning. 
 
 ```
-project: {
+epicPlaylist: {
   bioMemeticRecordStore:             "QM API",
   bioMemeticOrganization:            "Quantum Memoir",
-  [department?]:                     "[Onboarding]",
-  projectName:                       "[TBD]",
-  mission: {
-    lesson:                          "l0background",
-    l0v0ego: {
+  longPlay:                          "[Onboarding]",
+  epicPlaylist:                      "[TBD]",
+  b0mission: {
+    groove:                          "gr0ourSource",
+    gr0v0ego: {
       institutionQuestion:           "What societal system do you want to explore? (ex. language, mass media, economic, etc.)"
       institution:                   "language",
       collectiveChallengeQuestion:   "Can you name a challenge that is created by the institution you selected? (ex. polarization, division, tribalism, etc.)"
@@ -19,43 +19,43 @@ project: {
       collectiveEgo:                 "lack and fear",
       bookEgoTitle:                  "Becoming Superhuman",
       bookEgoAuthor:                 "Dr. Joe Dispenza",
-      gr0v0Thesis:                   "[__lack and fear__ in our __language__ institution is leading to more __preconcieved notion__. We're learning from __Becoming Supernatural__ by __Dr. Joe Dispenza__ to develop our perspective.?]"
+      gr0v0Output:                   "[__lack and fear__ in our __language__ institution is leading to more __preconcieved notion__. We're learning from __Becoming Supernatural__ by __Dr. Joe Dispenza__ to develop our perspective.?]"
     },
-    l0v1biomimicry: {
+    gr0v1biomimicry: {
       natureMentor:                  "forest",
       mentorBenefit:                 "clarity",
       bookBioTitle:                  "Spirit Animals of the Sacred Woods",
       bookBioAuthor:                 "RM Bodhi",
       gr0v1Output:                   "We're learning from __forests__ to develop innovative alternatives to __preconcieved notions__. We're learning from __Spirit Animals of the Sacred Woods__ by __RM Bodhi__ as inspiration for biomimetic experiments."
     },
-    l0v2willpower: {
+    gr0v2willpower: {
       goal:                          "inspire other people to heal others with the QM process - make sure people understand the process so it can take off on its own",
       bookWillTitle:                 "The Quantum MeMoir Theory",
       bookWillAuthor:                "Malee Muse",
       gr0v2Output:                   "The experiments we create will explore how we can generate a __thriving environment for humanity__. We're learning from __The Quantum MeMoir Theory__ by __Malee Muse__ remind people of their untapped potential."
     },
-    l0v3song: {
+    gr0v3song: {
       songTitle:                     "All Things Must Pass",
       songArtist:                    "George Harrison",
       gr0v3song:                     "__All Things Must Pass__ by __George Harrison__ symbolize our project's mission."
     }
   },
-  roadmap: {
-    lesson:                          "l1strategy",
-    l1v0decentralization: {
+  b1community: {
+    groove:                          "gr1ourJourney",
+    gr1v0decentralization: {
       industry:                      "Human Resources",
       service:                       "onboarding protocol",
       focus:                         "[TSOBTC DAO Curriculum API?]",
       serviceInspiration:            "[The Bitcoin Protocol (Mining)?]",
       serviceInspiractionURL:        "https://bitcoin.org/en/bitcoin-paper"
     },
-    l1v1space: {
+    gr1v1space: {
       communityProject:              "TBD",
       communityProjectExampleURL:    "TBD",
       promotedProject:               "TBD",
       promotedProjectURL:            "TBD"
     },
-    l1v2time: {
+    gr1v2time: {
       deliverableFormat:             "Concept Design",
       missionDeliverable:            "Open Source Mission",
       missionDate:                   "TBD",
@@ -80,12 +80,12 @@ project: {
       notes:                         "Bullet Journal",
       notesDate:                     "TBD"
     },
-    l1v3song: {
+    gr1v3song: {
       songTitle:                     "TBD",
       songArtist:                    "TBD"
     }
   },
-  branding: {
+  b2media: {
     gr2v0relate: {
     
     },

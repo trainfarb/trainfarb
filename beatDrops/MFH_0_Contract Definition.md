@@ -29,7 +29,7 @@ Create a proposal that serves as a basis for conversation for all contract calls
       - 1hr: meeting
       - 1hr: post meeting deliverable
   - b4portfolio: the website that will get added to my portfolio
-    - $2,100 for the main portfolio item
+    - $2,100 for the main portfolio item (b3now Semplice Website)
       - 2hrs: pre meeting research
       - 3hrs: research organization
       - 1hr: meeting

@@ -11,3 +11,14 @@ Conceptual design for TSOBTC's Intro Course
 
 ### What was the briefing?
 Create a way to bridge the existing education system to Web3.
+
+### What was the process?
+- TSOBTC created an outline for a course
+- trainfarb applies that to ourStory API (b7learn)
+- Create issue structure for project that will help complete the API
+- Completing each issue will fill out API and create a conceptual design for a DAO
+- Each Issue has a deliverable
+- Once each issue is completed, the answers are added to the project README API
+- Once each issue is completed, the POW case study is save to a dedicated folder on gitHub
+- Each milestone for the issues ends with an NFT
+- Each issue is a lesson in the course

@@ -22,3 +22,13 @@ Create a way to bridge the existing education system to Web3.
 - Once each issue is completed, the POW case study is save to a dedicated folder on gitHub
 - Each milestone for the issues ends with an NFT
 - Each issue is a lesson in the course
+
+### TODO today
+- Input API Structure
+- Input folder structure
+- Create Project
+- Load Gantt Chart Items
+- Create Issue for b0mission
+- Create Issue for b1community
+- Create Issue for b2media
+- Create Issue for b7learn

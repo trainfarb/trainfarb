@@ -1,4 +1,5 @@
-# DAO Concept Design
+# TSOBTC curriculumDAO Concept Design
+https://github.com/TheSchoolofBitcoin/curriculumDAO_CD
 ### Introduction & Goal
 Role: DAO Ecosystem Strategy
 - trainfarb: How can ourStory APIs help educators organize their ideas into a project based learning DAO?

@@ -1,4 +1,5 @@
-# DAO Concept Design
+# DAES Concept Design
+https://github.com/TheSchoolofBitcoin/DAES_CD
 ### Introduction & Goal
 Role: DAO Ecosystem Strategy, Platform Design, Token Engineering
 trainfarb: How can 369API help teams develop systainable economic models for their DAOs? How do people actually get DAOs started?

@@ -1,14 +1,22 @@
-Oh hi. 
-trainfarb here. 
-Gonna use this as my website I think.
+Oh hi.  
+trainfarb here.  
+Gonna use this as my website I think.  
 I've liked journaling since I was a kid...I blame Doug Funny.
+
+## I would like to help you design an open source community for your idea or brand.
 
 LinkedIn | Twitter | Instagram 
 
 I’m interested in using biomimicry to help people turn visions into DAOs, projects into subDAOs, and themselves into communities. I want to help redefine how people design, develop, and grow meaningful open source communities.
-- 🌱 I’m currently learning how to design specialized blockchains.
-- 💞️ I’m looking to collaborate on your open source project.
-- 📫 How to reach me: trainfarb@gmail.com
+- Civil Engineer (Construction Management)
+- Biomimicry
+- DAO Ecosystem Designer/Engineer
+- Bartender
+- Graphic Designer
+- Wordpress (Semplice) Design/Development
+- NFT Minting dApps (Polygon Network)
+- Writer/Illustrator (I make web comics)
+- Developer Relations (I create documentation)
 
 ## My DevRel Job Titles (The Polymath Protocol)
 Below are ways I like helping freelancers and teams develop well rounded ecosystems.  10-part system serves two purposes:

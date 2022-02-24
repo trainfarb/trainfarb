@@ -1,4 +1,9 @@
 ## trainfarb goals
+Use outline as an example of how the moonjelly community can promote the ocean in their own way while raising money for moonjelly. So grateful for the opportunity to pesent something to a group of individuals who actually know their shit. This will force me to dive into branding so I can present an effective case study on GitHub.
+- Example of how it's being used with TSOBTC - parallel to how moonjelly could use it - just prompt with questions
+- Example of how it's being used with Sitadel - parallel how moonjelly could use it - just prompt with questions
+- Etc.
+
 - Create a MoonJelly API (Branding), 
 - onboard contributors/freelancers, 
 - help moonjelly maintain API, 
@@ -6,6 +11,25 @@
 - Create tokenomics API from MoonJelly (down the road)
 
 Everyone is sick and tired of doom and gloom. Let's share stories of what works. Focus on solutions through science with artistic adaptations.
+
+## Moonjelly goals
+Science advisory committee onboarding
+Open source for all DAOs
+Creating a course to show people how to vet projects that get funding
+Create a beatDrop case study for an API that translates their courses to The School of Bitcoin
+
+## Core team notes
+Development phase of MVP - marketplace (5 NFTs) - Proof of impact created
+Ability to buy the NFTs and you fund the impact that has already happened (that is genius)
+First steps for designing the MVP next week with a 3 day workshop
+
+## Research and development
+Token model conversations the last three fridays. Long chats about how tokenomics are tied to the ocean and impact verification. Doug will be workin gon this with his network. First iteration of the token model by the mid to end of march
+
+## Comms
+Paralel to MVP building. Now we can start to test with branding and comms. 
+Moonjelly bible as an epicPlaylist
+This will be a great way to turn these projects into a 
 
 ### 2022 02 16
 Moonjelly Community Call #12 Notes

@@ -1,7 +1,8 @@
-## Storyboard Artist
-- Sketching
-- Digital Illustration
-- Web Comics
+## Developer Experience Engineer
+- GitHub Project Consulting
+- Documentation Writing
+- Course Design and Development
+- Developing Project Work Flows
 
 ## Web Design Engineer
 - Figma Wireframing and Prototyping
@@ -15,8 +16,7 @@
 - Whitepaper/Lightpaper Research & Development
 - Lightpaper Technical Writing
 
-## Developer Experience Engineer
-- GitHub Project Consulting
-- Documentation Writing
-- Course Design and Development
-- Developing Project Work Flows
+## Storyboard Artist
+- Sketching
+- Digital Illustration
+- Web Comics

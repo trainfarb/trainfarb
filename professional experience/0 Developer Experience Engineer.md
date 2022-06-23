@@ -35,7 +35,7 @@ Documentation
 1.0.1 Abstract.md
 
 2.1.0 --- GROUND OPERATIONS.md
-2.1.1 --- Executive Summary.md
+2.1.1 Executive Summary.md
 
 3.2.0 --- INTEND DESIGN.md
 3.2.1 Design System.md

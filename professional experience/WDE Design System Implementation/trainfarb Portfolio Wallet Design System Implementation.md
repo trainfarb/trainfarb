@@ -5,6 +5,9 @@
   - Shows the version history, so instead of creating documentation as I go, I'll just make notes of what I change as I go and create the documentation when I'm done
   - Create side components (with udnerscore in front so it's excluded) for colors that match the video
   - Create side components (with udnerscore in front so it's excluded) for fonts that match the video
+- Pomodoro 2
+  - Create side components (with udnerscore in front so it's excluded) for colors that match the video
+  - Create side components (with udnerscore in front so it's excluded) for fonts that match the video
 
 2022 06 22 
 - Selected Figma Video to guide process https://www.youtube.com/watch?v=EK-pHkc5EL4

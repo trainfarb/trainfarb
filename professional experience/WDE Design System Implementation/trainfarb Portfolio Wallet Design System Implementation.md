@@ -11,6 +11,9 @@
   - Completed component layout for fonts
 - Pomodoro 3
   - Complete component layout for colors
+  - Initial colors are selected
+- Pomodoro 4
+  - Layout grids 
 
 2022 06 22 
 - Selected Figma Video to guide process https://www.youtube.com/watch?v=EK-pHkc5EL4

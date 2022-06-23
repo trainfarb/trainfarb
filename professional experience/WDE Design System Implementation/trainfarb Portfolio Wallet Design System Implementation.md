@@ -21,6 +21,8 @@
 - Pomodoro 6
   - Added nested components to work through text input fields
 - Pomodoro 7
+  - Worked through more related to components and auto layout
+- Pomodoro 8
   - 
 
 2022 06 22 

@@ -6,8 +6,8 @@
 - Developing Project Work Flows
 
 ## Web Design Engineer
+- Design System Implementation *
 - Figma Wireframing and Prototyping
-- Brand Design & Style Guides
 - Web UI/UX Design Engineer
 - NFT Lazy Minding dApps (Polygon)
 

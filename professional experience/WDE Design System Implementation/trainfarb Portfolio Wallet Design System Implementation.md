@@ -16,6 +16,8 @@
   - Layout grids 
   - Created 12 Grid system for desktop and 4 grid system for mobile
   - Downloaded layout grid visualizer to make sure they always show: https://www.figma.com/community/plugin/831003768229656707
+- Pomodoro 5
+  - 
 
 2022 06 22 
 - Selected Figma Video to guide process https://www.youtube.com/watch?v=EK-pHkc5EL4

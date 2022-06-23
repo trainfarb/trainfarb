@@ -17,6 +17,10 @@
   - Created 12 Grid system for desktop and 4 grid system for mobile
   - Downloaded layout grid visualizer to make sure they always show: https://www.figma.com/community/plugin/831003768229656707
 - Pomodoro 5
+  - Started with type pairing layouts and reviewed spacing
+- Pomodoro 6
+  - Added nested components to work through text input fields
+- Pomodoro 7
   - 
 
 2022 06 22 

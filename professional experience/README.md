@@ -1,5 +1,6 @@
 ## Developer Experience Engineer
-- GitHub Project Consulting
+- GitHub Open Source Organization Management 
+- Document Control
 - Documentation Writing
 - Course Design and Development
 - Developing Project Work Flows

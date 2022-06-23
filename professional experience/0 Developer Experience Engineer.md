@@ -2,11 +2,11 @@
 ### Document Control
 2022 06 22 - Create repository and documentation coding structure for ourStory bMO
 ```
-A.B.C-seedWord-DESCRIPTOR
+#a.#b.#c-seedWord-DESCRIPTOR
 
-A = Step in the ourStory Framework process
-B = Chakra / Beat Section
-C = Subsection
+#a = Step in the ourStory Framework process
+#b = Chakra / Beat Section
+#c = Subsection
 seedWord = Quantum MeMoir Seed or Outter Word
 Descriptor = Clarification for the document
 

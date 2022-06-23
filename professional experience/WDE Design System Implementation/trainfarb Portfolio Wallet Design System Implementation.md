@@ -8,6 +8,9 @@
 - Pomodoro 2
   - Create side components (with udnerscore in front so it's excluded) for colors that match the video
   - Create side components (with udnerscore in front so it's excluded) for fonts that match the video
+  - Completed component layout for fonts
+- Pomodoro 3
+  - Complete component layout for colors
 
 2022 06 22 
 - Selected Figma Video to guide process https://www.youtube.com/watch?v=EK-pHkc5EL4

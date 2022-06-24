@@ -23,7 +23,9 @@
 - Pomodoro 7
   - Worked through more related to components and auto layout
 - Pomodoro 8
-  - 
+  - Decided to have trainfarb's colors the same as hu3agency so I can kill two birds with one stone
+  - Brought the colors over from the Khalid album I redesigned/colors in Affinity and the old quote posts I designed that used most of the colors
+  - Made the turquoise darker
 
 2022 06 22 
 - Selected Figma Video to guide process https://www.youtube.com/watch?v=EK-pHkc5EL4

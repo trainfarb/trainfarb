@@ -1,3 +1,15 @@
+2022 06 24
+- Pomodoro 1
+  - Created textfield components for
+    - Default
+    - Search
+    - Active
+    - Valid
+    - Error
+    - Disabled
+- Pomodoro 2
+  -  
+
 2022 06 23
 - Updated the font family to [Manrope](https://fonts.google.com/specimen/Manrope?category=Sans+Serif&vfonly=true&preview.text=DEG%20ENTREPRISES&preview.size=51&preview.text_type=custom) after selecting it for DEG
 - Pomodoro 1

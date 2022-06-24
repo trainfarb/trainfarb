@@ -10,13 +10,16 @@
 - Pomodoro 2
   - Created primary and secondary buttons
 - Pomodoro 4
-  - Created grid system for web, tablet, and phone
+  - Created grid system for web, tablet, and phone: https://www.youtube.com/watch?v=_w-iYiEXrl0&t=29s
     - web columns: 12 column grid, Margin 80, gutter 8
     - web rows: 1000 count, height 8, offset 0, gutter 0
     - tablet: 12 column grid, margin 32, gutter 8
     - tablet rows: 1000 count, height 8, offset 0, gutter 0
     - mobile: 12 column grid, margin 16, gutter 8
     - mobile rows: 1000 count, height 8, offset 0, gutter 0
+- Pomodoro 5
+  - Review Video for Apple's new Human Interface Guidelines: https://www.youtube.com/watch?v=BH5d809IH-o
+  - HI Guidelines: https://developer.apple.com/design/human-interface-guidelines/guidelines/overview
 
 2022 06 23
 - Updated the font family to [Manrope](https://fonts.google.com/specimen/Manrope?category=Sans+Serif&vfonly=true&preview.text=DEG%20ENTREPRISES&preview.size=51&preview.text_type=custom) after selecting it for DEG

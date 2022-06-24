@@ -8,7 +8,7 @@
     - Error
     - Disabled
 - Pomodoro 2
-  -  d
+  -  Created primary and secondary buttons
 
 2022 06 23
 - Updated the font family to [Manrope](https://fonts.google.com/specimen/Manrope?category=Sans+Serif&vfonly=true&preview.text=DEG%20ENTREPRISES&preview.size=51&preview.text_type=custom) after selecting it for DEG

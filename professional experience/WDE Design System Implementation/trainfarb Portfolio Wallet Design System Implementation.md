@@ -8,7 +8,15 @@
     - Error
     - Disabled
 - Pomodoro 2
-  -  Created primary and secondary buttons
+  - Created primary and secondary buttons
+- Pomodoro 4
+  - Created grid system for web, tablet, and phone
+    - web columns: 12 column grid, Margin 80, gutter 8
+    - web rows: 1000 count, height 8, offset 0, gutter 0
+    - tablet: 12 column grid, margin 32, gutter 8
+    - tablet rows: 1000 count, height 8, offset 0, gutter 0
+    - mobile: 12 column grid, margin 16, gutter 8
+    - mobile rows: 1000 count, height 8, offset 0, gutter 0
 
 2022 06 23
 - Updated the font family to [Manrope](https://fonts.google.com/specimen/Manrope?category=Sans+Serif&vfonly=true&preview.text=DEG%20ENTREPRISES&preview.size=51&preview.text_type=custom) after selecting it for DEG

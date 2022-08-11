@@ -6,7 +6,7 @@ Temporary notes
 - Manage work from huStory
 ```
 
-Table of Contents
+## Table of Contents
 ### 0.7.0 Define PURPOSE
 - 0.7.1 Public Tutorials [ecology]
 - 0.7.2 1-on-1 Collaboration [physiology]

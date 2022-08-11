@@ -1,5 +1,64 @@
+```
+Temporary notes
+- Someone shares sol cycle to discord & instagram
+- I Create repository for them in trainfarb
+- Clone repository to huStory
+- Manage work from huStory
+```
+
 Table of Contents
-### 0.7.0
+### 0.7.0 Define PURPOSE
+- 0.7.1 Public Tutorials [ecology]
+- 0.7.2 1-on-1 Collaboration [physiology]
+- 0.7.3 Cohort Based Courses [sociology]
+
+### 1.1.0 GROUND Operations
+- 1.1.1 Contributors [decentralization]
+- 1.1.2 Deliverables [space]
+- 1.1.3 Roadmap [time]
+
+### 2.0.0 INITIATE Mission
+- 2.0.1 Challenge [ego]
+- 2.0.2 Inspiration [biomimicry]
+- 2.0.3 Project Brief [willpower]
+
+### 3.2.0 INTEND Design
+- 3.2.1 Colors & Typography [relate]
+- 3.2.2 Components [body]
+- 3.2.3 Design System [mind]
+
+### 4.3.0 OBSERVE Market
+- 4.3.1 Changes & Risks [shadow]
+- 4.3.2 Current Conditions [presence]
+- 4.3.3 Content Strategy [music]
+
+### 5.4.0 CONNECT Community
+- 5.4.1 Portfolio  [create]
+- 5.4.2 Gratitude  [gratitude]
+- 5.4.3 Value Proposition  [manifest]
+
+### 6.8.0 ELEVATE Engagement
+- 6.8.1 Tokenomics [vision]
+- 6.8.2 Protocol [values]
+- 6.8.3 Game [play]
+
+### 7.5.0 EXPRESS Vision
+- 7.5.1 Assumptions [belief]
+- 7.5.2 Research [science]
+- 7.5.3 Case Study [sensemaking]
+
+### 8.6.0 REFINE Story
+- 8.6.1 Storyboard [mythology]
+- 8.6.2 Logistics Plan [spirituality]
+- 8.6.3 Renderings [consciousness]
+
+### 9.9.0 OWN Data
+- 9.9.1 Technolgy?  [TBD]
+- 9.9.2 Governance? [TBD]
+- 9.9.3 License? [TBD]
+
+
+
 ---
 TO BE ARCHIVED
 ---

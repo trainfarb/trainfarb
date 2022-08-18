@@ -1,62 +1,53 @@
-```
-Temporary notes
-- Someone shares sol cycle to discord & instagram
-- I Create repository for them in trainfarb
-- Clone repository to huStory
-- Manage work from huStory
-```
-
 ## Table of Contents
-### 0.7.0 Define PURPOSE
-- 0.7.1 Public Tutorials [ecology]
-- 0.7.2 1-on-1 Collaboration [physiology]
-- 0.7.3 Cohort Based Courses [sociology]
+### 0.7.0 Define PURPOSE [v7myJourney]
+- 0.7.1 Public Courses [v7gr1ecology]
+- 0.7.2 Personal Courses [v7gr2physiology]
+- 0.7.3 Cohort Based Courses [v7gr3sociology]
 
-### 1.1.0 GROUND Operations
-- 1.1.1 Contributors [decentralization]
-- 1.1.2 Deliverables [space]
-- 1.1.3 Roadmap [time]
+### 1.1.0 GROUND Operations [v1ourHome]
+- 1.1.1 Contributors [v1gr1decentralization]
+- 1.1.2 Deliverables [v1gr2space]
+- 1.1.3 Roadmap [v1gr3time]
 
-### 2.0.0 INITIATE Mission
-- 2.0.1 Challenge [ego]
-- 2.0.2 Inspiration [biomimicry]
-- 2.0.3 Project Brief [willpower]
+### 2.0.0 INITIATE Mission [v0ourSource]
+- 2.0.1 Challenge [v0gr1ego]
+- 2.0.2 Inspiration [v0gr2biomimicry]
+- 2.0.3 Abstract [v0gr3willpower]
 
-### 3.2.0 INTEND Design
-- 3.2.1 Colors & Typography [relate]
-- 3.2.2 Components [body]
-- 3.2.3 Design System [mind]
+### 3.2.0 INTEND Design [v2myHome]
+- 3.2.1 Colors & Typography [v2gr1relate]
+- 3.2.2 Components [v2gr2body]
+- 3.2.3 Design System [v2gr3mind]
 
-### 4.3.0 OBSERVE Market
-- 4.3.1 Changes & Risks [shadow]
-- 4.3.2 Current Conditions [presence]
-- 4.3.3 Content Strategy [music]
+### 4.3.0 OBSERVE Market [v3ourAwareness]
+- 4.3.1 Changes & Risks [v3gr1shadow]
+- 4.3.2 Current Conditions [v3gr2presence]
+- 4.3.3 Content Strategy [v3gr3music]
 
-### 5.4.0 CONNECT Community
-- 5.4.1 Portfolio  [create]
-- 5.4.2 Gratitude  [gratitude]
-- 5.4.3 Value Proposition  [manifest]
+### 5.4.0 CONNECT Community [v4ourConnection]
+- 5.4.1 Portfolio  [v4gr1create]
+- 5.4.2 Acknowledgements  [v4gr2gratitude]
+- 5.4.3 Value Proposition  [v4gr3manifest]
 
-### 6.8.0 ELEVATE Engagement
-- 6.8.1 Tokenomics [vision]
-- 6.8.2 Protocol [values]
-- 6.8.3 Game [play]
+### 6.8.0 ELEVATE Engagement [v8ourStory]
+- 6.8.1 Protocol [v8gr1vision]
+- 6.8.2 Tokenomics [v8gr2values]
+- 6.8.3 Game [v8gr3play]
 
-### 7.5.0 EXPRESS Vision
-- 7.5.1 Assumptions [belief]
-- 7.5.2 Research [science]
-- 7.5.3 Case Study [sensemaking]
+### 7.5.0 EXPRESS Vision [v5myConnection]
+- 7.5.1 Assumptions [v5gr1belief]
+- 7.5.2 Clarifications [v5gr2science]
+- 7.5.3 Case Studies [v5gr3sensemaking]
 
-### 8.6.0 REFINE Story
-- 8.6.1 Storyboard [mythology]
-- 8.6.2 Logistics Plan [spirituality]
-- 8.6.3 Renderings [consciousness]
+### 8.6.0 REFINE Story [v6ourJourney]
+- 8.6.1 Worldbuilding [v6gr1mythology]
+- 8.6.2 Logistics Plan [v6gr2spirituality]
+- 8.6.3 Renderings [v6gr3consciousness]
 
-### 9.9.0 OWN Data
-- 9.9.1 Technolgy?  [TBD]
-- 9.9.2 Governance? [TBD]
-- 9.9.3 License? [TBD]
-
+### 9.9.0 OWN Data [v9trainfarb]
+- 9.9.1 Technolgy [v9gr1technology]
+- 9.9.2 Governance [v9gr2governance]
+- 9.9.3 License [v9gr3license]
 
 
 ---

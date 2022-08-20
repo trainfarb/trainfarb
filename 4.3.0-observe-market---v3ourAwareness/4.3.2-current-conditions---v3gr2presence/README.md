@@ -2,7 +2,6 @@ This will hold the resources that are helping us find presence. Inspiration for 
 Link to folder for the type of content that this community will be sharing:
 - 4.3.2.0-books---v3gr2b0mission
 - 4.3.2.1-community-plans---v3gr2b1community
-(add this to the directory: https://www.chicago.gov/city/en/depts/dcd/provdrs/planning_and_policydivision/svcs/community-plans.html)
 - 4.3.2.2-videos---v3gr2b2media
 - 4.3.2.3-ad-campaigns---v3gr2b3now
 - 4.3.2.4-portfolios---v3gr2b4portfolio

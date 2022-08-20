@@ -9,4 +9,4 @@ Link to folder for the type of content that this community will be sharing:
 - 4.3.2.6-mythologies---v3gr2b6story
 - 4.3.2.7-courses---v3gr2b7learn
 - 4.3.2.8-games---v3gr2b8play
-- 4.3.2.9-protocols---v3gr2b9journal
+- 4.3.2.9-technologies---v3gr2b9journal

@@ -3,4 +3,4 @@ This section acts as the MVP (minimum viable product) for the Proof-of-Creation 
 
 The 6.8.1 Director will be split up as follows:
 - 6.8.1.0-transparent-paper
-- 6.8.1.1-proof-of-creation
+- 6.8.1.1-proof-of-work

@@ -1,4 +1,4 @@
-# 0.7.0 Define PURPOSE
+# 0.7.0 Define PURPOSE - Curriculum
 ## v7myJourney
 Below is the curriculum associated with 369mPI. The following six courses will help a person turn their favorite hobbies into a vocation that helps bring more meaning (and income) to their lives.
 

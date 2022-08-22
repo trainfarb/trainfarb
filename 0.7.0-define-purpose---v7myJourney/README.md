@@ -29,7 +29,7 @@ Create the meeting protocol/cell signaling for growing your hobby.
 Technology: Google Meet
 #### The lOl Cycle course is a derivative of Quantum MeMoir's Fruit of Life Cycle Course.
 
-## TBD (TBD) Cycle Course
+## pOl (package of life?) Cycle Course
 #### 3.2.0 INTEND Design - v2myHome
 Design the brand workbook/membrane for your hobby.
 - Public Course

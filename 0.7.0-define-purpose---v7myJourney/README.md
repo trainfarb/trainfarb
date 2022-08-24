@@ -4,7 +4,7 @@ Below is the curriculum associated with 369mPI. The following six courses will h
 
 ## sOl (soil of life) Cycle Course
 #### 0.7.0 Define PURPOSE - v7myJourney
-Create the core/nucleus of your hobby.
+Create the core curriculum/nucleus of your hobby.
 - Public Course
 - Private Course
 - Cohort Based Course  

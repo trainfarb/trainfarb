@@ -6,6 +6,11 @@ Introduce what the meeting's about
 
 Community Plan - GROUND Operations - v1ourHome  
 Outline how this fits into the big picture
+  
+This is a fantastic conversation that highlights the overall vision with 432oPI. Get people to the point where they understand the vision so they can customize and enhance its features. Felix introduces a path towards commercialization. We'll be working on 3 main strategic outcomes with this case study:
+1. Commercialize DEG's Visualization Process
+2. Commercialize 432oPI by showing DEG's natural adaptation
+3. Commercialize hu3agency/trainfarb's Semplice/p5.js services
 
 Project Brief - INITIATE Mission - v0ourSource
 Summarize the meeting and outcomes

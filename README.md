@@ -34,7 +34,7 @@
 - 6.8.2 Tokenomics [v8gr2values]
 - 6.8.3 Wallet [v8gr3play]
 
-### 7.5.0 Reports - EXPRESS Vision [v5myConnection]
+### 7.5.0 Reporting - EXPRESS Vision [v5myConnection]
 - 7.5.1 Assumptions [v5gr1belief]
 - 7.5.2 Clarifications [v5gr2science]
 - 7.5.3 Case Studies [v5gr3sensemaking]

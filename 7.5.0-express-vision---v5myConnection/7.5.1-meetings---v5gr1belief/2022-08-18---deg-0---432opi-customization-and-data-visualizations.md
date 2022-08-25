@@ -1,8 +1,6 @@
 DEG Entreprises
-Case Study: https://github.com/trainfarb/trainfarb/issues/12#issue-1351023849
-Meeting Recording: 2022-08-18---deg-0---432opi-customization-and-data-visualizations
-Meeting Minutes
-
+Case Study: https://github.com/trainfarb/trainfarb/issues/12#issue-1351023849  
+  
 Onboarding - DEFINE Purpose - v7myJourney  
 Introduce what the meeting's about
 
@@ -23,6 +21,9 @@ Portfolio - CONNECT Community - v4ourConnection
 Gamification - ELEVATE Engagement - v8ourStory
 
 Proof of Work - EXPRESS Vision - v5myConnection
+Original Meeting Recording: 2022-08-18---deg-0---432opi-customization-and-data-visualizations  
+Meeting Minutes Timestamp Recording: 2022-08-25---deg
+
 0:00 - Felix adapt sacred geometry to introduce **DEG Entrises SA Open Source through B2B Community Building**
 - Started with Haiti and now transitioning to Rwanda
 - Reference bubble charts about different crops in Africa (data visualization)

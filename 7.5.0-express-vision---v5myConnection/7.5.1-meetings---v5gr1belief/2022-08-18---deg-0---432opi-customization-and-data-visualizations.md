@@ -21,9 +21,16 @@ Portfolio - CONNECT Community - v4ourConnection
 Gamification - ELEVATE Engagement - v8ourStory
 
 Proof of Work - EXPRESS Vision - v5myConnection
-Original Meeting Recording: 2022-08-18---deg-0---432opi-customization-and-data-visualizations  
-Meeting Minutes Timestamp Recording: 2022-08-25---deg
+Original Meeting Recording:  
+[2022-08-28---deg-0---432opi-customization-data-vis-concept---trainfarb-lp0ep0v5gr1---1h30m45s](https://drive.google.com/file/d/1JEubkUFUfRsNoOG9Lu55khz9iJE1BihA/view?usp=sharing)
+  
+Meeting Minute Timestamp Recording (pass 1):
+[2022-08-25---deg-1---mtg-minute-timestamp-432opi-customization-data-vis-concept---trainfarb-lp0ep0v5gr1---2h36m06s](https://www.loom.com/share/1dcefc56c22b4ac9bac33ed63f638cfe)
 
+Meeting Minute Timestame Recording (pass 2):  
+TBD LINK
+
+Timestamps
 0:00 - Felix adapt sacred geometry to introduce **DEG Entrises SA Open Source through B2B Community Building**
 - Started with Haiti and now transitioning to Rwanda
 - Reference bubble charts about different crops in Africa (data visualization)

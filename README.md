@@ -1,3 +1,4 @@
+# trainfarb: am i wrong?
 ## Table of Contents
 ### 0.7.0 Onboarding - Define PURPOSE [v7myJourney]
 - 0.7.1 Public Courses [v7gr1ecology]
@@ -35,11 +36,11 @@
 - 6.8.3 Wallet [v8gr3play]
 
 ### 7.5.0 Reporting - EXPRESS Vision [v5myConnection]
-- 7.5.1 Assumptions [v5gr1belief]
-- 7.5.2 Clarifications [v5gr2science]
+- 7.5.1 Meetings [v5gr1belief]
+- 7.5.2 Research [v5gr2science]
 - 7.5.3 Case Studies [v5gr3sensemaking]
 
-### 8.6.0 Mythology - REFINE Story [v6ourJourney]
+### 8.6.0 Brand Story - REFINE Story [v6ourJourney]
 - 8.6.1 Worldbuilding [v6gr1mythology]
 - 8.6.2 Logistics Plan [v6gr2spirituality]
 - 8.6.3 Renderings [v6gr3consciousness]

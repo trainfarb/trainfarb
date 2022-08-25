@@ -116,7 +116,7 @@ Proof of Work - EXPRESS Vision - v5myConnection
     - DEG SA Ltd - Rwanda
     - Use these visualizations for all different aspects of the business
   - p5.js can be a strong communication tool
-- 44:18 is it even possible to steal ideas? Give control back to Africans. Open source removes mechanism for war
+- 44:18 is it even possible to steal ideas? Give control back to Africans. Open source removes mechanism for war. 
   - tesla cant steal what GM does, GM can't steal what ford does
   - care companies are still close minded
   - we can share this technology (432oPI) throughout the country
@@ -127,7 +127,96 @@ Proof of Work - EXPRESS Vision - v5myConnection
   - Challenge becomes - all knowledge is there, so what can you do with it
   - Show process for how to get from point A to point B
   - Everything you want to do is there, so we can just help people build off of each other
-  - 
+- 46:46 Hidden knowledge keeps people dependent - leaders keep knwoledge from us - open source changes this dynamic
+  - Has list of national organizations involved
+  - Put them all in appropriate bubbles so people can see where they connect
+  - A new company uses the same process with a similar map
+  - Then as things play out over the years, it'll all be connected
+  - Not creating connections...uncovering connections that are already there
+  - As people catch on to what open source communities are doing, it'll be a transformative shift for everyone
+  - Bring power to people
+  - Everyone is different - not everyone wants to be business owners
+  - We have a need for one another
+  - Murderers need victims. Victims need victimizers
+  - Sellers need purchasers
+  - CHALLENGE: knowledge is private and hidden, so we're always dependent on "leaders" and they manipulate us (this is why 432oPI is focused on bringing knowledge for institutions so we can control things)
+  - This is what Felix was trying to do in Haiti - bring knowledge back to people, but forces were greater than he anticipated - 432oPI is a new approach to his existing idea
+  - 432oPI gives people a new way to approach their existing ideas. fresh eyes on your core idea
+- 49:49 Creating a library. Library that helps people get to commercialization.
+  - Proposal (1XX pages) took something out of him
+  - Now we're in a place where we can start implementing
+  - Seeing the 432oPI structure allowed him to use his project implementation experience (lab to marketplace) within the open source structure
+  - Using experience from DOW chemical and apply it to the 432oPI
+  - Internet makes it so much easier to share knowledge
+  - We're creating an open source agricultural library for others to navigate
+  - Now that Felix created the proposal, summarizing the proposal
+    - Went from 30k view to 15k view
+    - TASK: now he's working on the nitty gritty
+  - What will it take for the rubber to meet the road?
+  - Commerialization is the goal
+  - Here's the process
+    - Start with idea
+    - Analyze problem
+    - Validate problem
+    - Develop Solution
+    - Implement solution
+    - Commercialize solution
+- 54:55 Where are we now towards commercialization?
+  - Took everything we learned over last 8 years to create proposal
+  - Put proposal into implementation stage
+  - RDB told us to move back to development stage to phase out test before implementing before they feel fully comfortable
+  - All DEG 432oPI projects follow the same path towards commercialization
+  - Recap commercialization and list it out visually over the same 7 circle sphere
+  - Commercialization is the center sphere (v7myJourney)
+    - It's the purpose of everything
+  - PURPOSE FOR ALL 432oPI BRANDS IS COMMERCIALIZATION
+- 59:20 Jacques Runthrough GitHub process and its benefits
+  - Originally showed Notion for project management
+  - Notion makes it hard of us to own and extract the data
+  - It'll be expensive and GitHub will be a great free resource
+  - Process on GitHub walkthrough
+  - Clone 432oPI and focus it all around commercialization based on Felix's experience
+  - Create structure, track meetings, etc
+- 1:04:50 How do we structure things in DEG's github to start out?
+  - Two active companies right now
+  - RWANDA and USA
+  - DEG Haiti isn't functioning right now
+  - Rwanda is what we're building
+  - Start filling in Felix's systematic process
+- 1:06:55 Symbiotic relationship between tracking and implementation
+  - We already have vast majority of info in github table of contents
+  - Felix already has roadmap for everything
+  - All we have to do now is fit things into a systematic process
+  - Jacques understood big picture of what needs to be done without necessairly knowling the implementation
+  - Jacques understood the outline to get a project done and Felix has extensive implementation experience
+  - Jacques knows how to track and Felix knows how to implement
+  - Symbiotic relationship
+- 1:11:00 432oPI relational database for DEG process
+  - Translational database so different communities can 
+  - Introduce coding system with quantum memoir example
+  - Create a new row for DEG to help people who want to work towards commercialization
+  - Start with simple breakdown of each step in the process (case studies)
+  - TASK: In the future, create substeps for each step in the commercialization process
+- 1:17:40 What phase are we in? How do different communities line up with one another
+  - We're in development working towards getting into implementation
+  - When different communities have their own structure and communication style, they'll be able to jump from community to community while still understanding what's going on
+- 1:20:35
+  - Felix to keep working on bubble outline
+  - Jacques to take what he's doing to lay it into the system
+  - 432oPI allows professionals to visually lay out their process and line up with other communities who can help them grow faster
+  - Allow people to work on themselves without having to work with the broader community
+- 1:22:00 Next steps
+  - Jacques - create one repository for DEG SA Ltd (Rwanda)
+    - Get this one set and then copy it over
+  - Felix - focus on DEG SA Ltd (Rwanda) first and then apply lessons to vodka
+  - Felix - still working on vodka, but in the background
+  - Stay pragmatic with how we work through the repository
+  - Not going to costa rica right now so we can focus
+- 1:28:44 Expressing desire for open source
+  - Want the visualization on the website
+  - Sees website as being two parts
+    - One part can be semplice
+    - the other can be a subdomain to a react application  
 
 Mythology - REFINE Story - v7ourJourney
 

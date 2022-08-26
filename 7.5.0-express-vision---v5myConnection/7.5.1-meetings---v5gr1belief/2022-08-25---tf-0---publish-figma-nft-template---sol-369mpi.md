@@ -50,7 +50,7 @@ Gamification - ELEVATE Engagement - v8ourStory
 TBD
 
 Proof of Work - EXPRESS Vision - v5myConnection
-Original Meeting Recording:  
+Original Meeting Recording: [2022-08-25---tf-1---design-and-publish-nft-template-to-figma-community---sol-369mpi](https://www.loom.com/share/13b5d22a13854f61b039630ecebafd8f)  
 
 Meeting Minute Timestamp Recording (pass 1):
 

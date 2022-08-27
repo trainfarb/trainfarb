@@ -1,4 +1,4 @@
-2022-08-25---tf-0---publish-figma-nft-template---sol-369mpi.md
+design-sol-369mpi-portfolio-presentation-header
 
 trainfarb / polymathProcess
 Case Study: [sOl 369mPI Course](https://github.com/trainfarb/trainfarb/issues/3#issue-1343468506)
@@ -6,7 +6,7 @@ Case Study: [sOl 369mPI Course](https://github.com/trainfarb/trainfarb/issues/3#
 Onboarding - DEFINE Purpose - v7myJourney  
 Introduce what the meeting's about
 
-Design Portfolio Presentation for completed 369mPI course
+Design Portfolio Presentation for completed 369mPI course. Create header with detailed description and a simple header for areas where the detailed description will be in text beneath the photo.
 
 Community Plan - GROUND Operations - v1ourHome  
 Outline how this fits into the big picture

@@ -50,7 +50,7 @@ Gamification - ELEVATE Engagement - v8ourStory
 TBD
 
 Proof of Work - EXPRESS Vision - v5myConnection
-Original Meeting Recording:   
+Original Meeting Recording: https://www.loom.com/share/3a50bb4316ca42dba58c794b19872215  
 
 Meeting Minute Timestamp Recording (pass 1):
 

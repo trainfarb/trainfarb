@@ -1,5 +1,9 @@
 ![Image](https://github.com/trainfarb/trainfarb/blob/main/3.2.0-intend-design---v2myHome/3.2.2-components---v2gr2body/sol-369mpi-portfolio-presentation-header---trainfarb-ep0-freedumb.png)
-My roles: 
+Sak pase? My name’s Jacques, and I help people create meaningful vocations and/or open source communities.  
+  
+Inspired by Jason Silva’s ability to translate complex topics for a wide audience, I translate the processes that control our society into simple tutorials that help people take creative control of their own lives.  
+  
+ep0_freeDumb is a collaborative mythology focused on exploring how censorship throughout humanity’s language institution translates to individuals self-censor themselves from defining the lives they actually want to live.  
 
 ## Table of Contents
 ### 0.7.0 Onboarding - Define PURPOSE [v7myJourney]

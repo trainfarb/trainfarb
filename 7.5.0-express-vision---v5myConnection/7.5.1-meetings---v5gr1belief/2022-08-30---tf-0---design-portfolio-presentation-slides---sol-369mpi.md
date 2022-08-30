@@ -52,7 +52,7 @@ TBD
 # 7.5.0 - EXPRESS Vision - v5myConnection
 Original Meeting Recordings: 
 - 8/29 (https://www.loom.com/share/43c3d5bb8caa43679e3c5c2ecbe0be53)  
-- 8/30 ()
+- 8/30 (https://www.loom.com/share/724bd97fd151486dbc83ee9aa426d6d7)
 
 Meeting Minute Timestamp Recording (pass 1):
 

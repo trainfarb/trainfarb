@@ -49,11 +49,11 @@ Define how this meeting will be presented in the case study
 - gratitude:
   - QM Creation Cycle Course
   - ourStory Cohort 0
-    - MaLee
-    - Bodhi
-    - Alice
-    - Nohemy
-    - trainfarb
+    - Quantum MeMoir
+    - RM Bodhi
+    - Healthy Intentions
+    - theynoh
+    - ournOrm
 - Manifest: Q.Me Collective Purpose that can be implemented by ourStory Cohort 0
 
 ### 6.8.0 Gamification - ELEVATE Engagement - v8ourStory

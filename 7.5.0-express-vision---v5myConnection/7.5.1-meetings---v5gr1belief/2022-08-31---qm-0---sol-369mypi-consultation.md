@@ -63,6 +63,7 @@ Define how this meeting will be presented in the case study
 ### 7.5.0 - EXPRESS Vision - v5myConnection
 Original Meeting Recording: 
 - [2022-08-31---qm-tf-0---369mypi-consultation-runthrough---sol-369mypi---lp0ep0v7gr1b5---1h31m57s](https://drive.google.com/file/d/1VA-IJQcItJNcFLz-zjCG7yEWAW_3pNiv/view?usp=sharing)  
+  
 Meeting Recording Timestamps Recording:  
 Meetig Notes: (See 9.9.0)  
 

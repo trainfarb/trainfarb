@@ -20,8 +20,10 @@ Space (meeting format):
 - Google Meet
 
 Time (meeting minutes):
-- 1h30m
-- Notes recorded in GitHub
+- Date: Wednesday, August 31, 2022
+- Start Time: 0900 CST
+- Duration: 1h30m
+- End Time: 1030 CST
 
 ### 2.0.0 Project Brief - INITIATE Mission - v0ourSource
 Summarize the meeting and outcomes. 

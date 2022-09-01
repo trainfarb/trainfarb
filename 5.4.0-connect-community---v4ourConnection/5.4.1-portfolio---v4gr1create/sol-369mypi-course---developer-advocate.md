@@ -1,1 +1,7 @@
-
+- Developer Advocate: Complete the [QM Creation Cycle Course](https://www.quantummemoir.com/view/courses/creation-cycle)
+- Developer Advocate: Translate QM Creation Cycle Course into the sOl [369myPI Course (Markdown)](https://github.com/trainfarb/trainfarb/blob/main/0.7.0-define-purpose---v7myJourney/0.7.1-public-courses---v7gr1ecology/0.7.1.0-sol-cycle-course.md)
+- Ecosystem Designer: Design [Header Images](https://github.com/trainfarb/trainfarb/blob/main/0.7.0-define-purpose---v7myJourney/0.7.1-public-courses---v7gr1ecology/0.7.1.0-sol-cycle-course.md) for sOl 369myPI Course Markdown file
+- Curriculum Design Engineer: Transform sOl 369myPI Course Markdown File into a [FigJam Course](https://www.figma.com/file/1143722235078828090)
+- Ecosystem Designer: Design a [sOl 369myPI PDF printout](https://github.com/trainfarb/trainfarb/raw/main/3.2.0-intend-design---v2myHome/3.2.2-components---v2gr2body/sol-cycle-course-369mpi-thought-form.pdf) for people who want to write out their thought form
+- Game Design Engineer: [Design and Publish NFT Template](https://www.figma.com/file/1144851654005937138) for completed sOl 369myPI course (1x1, 4x5, & 9x16)
+- Web Design Engineer: [Design and Publish Design and Publish Portfolio Presentation Slides](https://www.figma.com/file/1146971392864522616) (Carousel & Desktop Versions)

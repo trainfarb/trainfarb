@@ -53,6 +53,10 @@ TBD
 Original Meeting Recordings: 
 - 8/29 (https://www.loom.com/share/43c3d5bb8caa43679e3c5c2ecbe0be53)  
 - 8/30 (https://www.loom.com/share/724bd97fd151486dbc83ee9aa426d6d7)
+- 8/31 part 1 (https://www.loom.com/share/c0d79a62b4cc4fc7aa396b7099cb9b15)
+  - Creating presentation slides
+- 8/31 part 2 (https://www.loom.com/share/8127cdd9b0da418d9a7a6dc5fc8519df)
+  - Creating presentation slides and trainfarb response slides
 
 Meeting Minute Timestamp Recording (pass 1):
 

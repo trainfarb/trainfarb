@@ -1,1 +1,17 @@
-
+- went to Costa Rica
+- Agency that works with the farmers and processor, puts product into container and ships to whoever
+- He knows all farmers in the area, and his company has to sections
+  - One in south
+  - One in north
+- Cooperative of 30 farmers (malanga blanca and malanga lilac)
+- Video sent is about 1 hectare
+- Felix wants to go back when they process the Malanga to see how they sort by grade and package
+- Wants to be there when they're planting and harvesting
+- They have 3 grades of Malanga
+  - Grade 2 or 3 might be fine
+  - Grade 1 is for food, but we're just looking fo the starch and it's cheeper
+- Takeaway: 
+  - First part of November of December to see process
+  - Partner in North part of the country - want to see them next time
+  - Right now - successful trip
+  - 

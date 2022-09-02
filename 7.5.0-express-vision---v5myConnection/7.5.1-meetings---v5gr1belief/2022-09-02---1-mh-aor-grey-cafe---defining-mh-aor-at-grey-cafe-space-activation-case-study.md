@@ -29,6 +29,7 @@
 **8.6.0 - Mythology - REFINE Story:** Apply notes from this to the worldbuilding  
 
 **9.9.0 - Metadata - OWN Data:**
-- Reviewing Notion file created by Wesley  
+- Reviewing Notion file created by Wesley 
+  - 
 - Reviewing Matamorphosis FigJam file  
 - Working through sOl 369myPI course  

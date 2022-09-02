@@ -33,4 +33,8 @@
   - Wesley met with a friend who wants to start forming her own events
   - She wants to help people learn about web3 and NFTs
   - Goal of her company is how to get her true 1,000 fans within web3
-  - 
+  - Wesley offered up walking her through how she can work within PANGIUM
+  - She wants to know how to onboard artists into web3
+- Walked through the sOl 369myPI course quickly
+  - After completing the course with him, I gave a high level overview of how we'll expand on it in the next course
+  - Review the video and take further notes to improve how the course is laid out for people

@@ -1,27 +1,35 @@
 **daily report: trainfarb**  
 **Friday, September 2, 2022**  
+  
 **0.7.0 - Onboarding - Define PURPOSE:** Complete daily report for [today](https://github.com/trainfarb/trainfarb/issues/15#issue-1359680199)  
-**1.1.0 - Community Plan - GROUND Operations:** This daily practice will be a good way for me to improve my storytelling and ability to create concise case studies.
+**1.1.0 - Community Plan - GROUND Operations:** This daily practice will be a good way for me to improve my storytelling and ability to create concise case studies.  
 **2.0.0 - Project Brief - INITIATE Mission:** Today I'm focused on: 
 - bringing more clarity to my daily routine
 - advancing the sOl 369myPI course by bringing clarity to my private course offering
 - outlining the value added to QM with sOl 369myPI
 - reviewing DEG's business proposal to inspire the website design
 - starting a case study for JR's Joyous Creation Sticker Packs
-- meeting with Wesley to clarify how we work together to achieve as much as posible  
-**3.2.0 - Design System - INTEND Design**: See ep0_freeDumb's style guide 
-**4.3.0 - Content Strategy - OBSERVE Market:** Share post to my story about what I completed at the end of the day and direct people to my github
+- meeting with Wesley to clarify how we work together to achieve as much as posible    
+
+**3.2.0 - Design System - INTEND Design**: See ep0_freeDumb's style guide  
+
+**4.3.0 - Content Strategy - OBSERVE Market:** Share post to my story about what I completed at the end of the day and direct people to my github. 
+
 **5.4.0 - Portfolio - CONNECT Community:**
 - I'm creating this as a template for what I'll be displaying daily on my blog (will be how I track my daily WWC
 - I'm grateful for my discipline, QM, DEG, MamAchille, and Wesley for bringing more purpose to my day
-- I'm manifesting case studies for everyone I work with to prove the value that's provided in my proposals
+- I'm manifesting case studies for everyone I work with to prove the value that's provided in my proposals  
+
 **6.8.0 - Gamification - ELEVATE Engagement:** This process is adding to the revolution of time Protocol for 369myPI.
-- Protocol: [video link goes here]
+- Protocol: [video link goes here]  
+
 **7.5.0 - Reporting - EXPRESS Vision:**
 - Meeting: These notes represent the meeting
 - Research: Multi Orgasmic Man quotes in the morning
-- Case Study: Format to be determined (The Futur Course)
-**8.6.0 - Mythology - REFINE Story:** Review notes form metadata at the end of the day to define a creative story
+- Case Study: Format to be determined (The Futur Course)  
+
+**8.6.0 - Mythology - REFINE Story:** Review notes form metadata at the end of the day to define a creative story  
+
 **9.9.0 - Metadata - OWN Data:**
 - Daily Routine
   - Woke up and wrote down dream in my phone (accidentally broke some dude's arm)

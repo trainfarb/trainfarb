@@ -1,7 +1,7 @@
 **Matador Harbor: The Art of Recovery @ Grey Cafe**  
 **Friday, September 2, 2022**  
   
-**0.7.0 - Onboarding - Define PURPOSE:** Define the Matador Harbor: Art of Recovery @ Grey Cafe Space Activation [Case Study](https://github.com/trainfarb/trainfarb/issues/17#issue-1359680274)  
+**0.7.0 - Onboarding - Define PURPOSE:** Complete sOl 432ourPI Course for Matador Harbor: Art of Recovery @ Grey Cafe Space Activation [Case Study](https://github.com/trainfarb/trainfarb/issues/17#issue-1359680274)  
 
 **1.1.0 - Community Plan - GROUND Operations:** Clarifying Matador Harbor: The Art of Recovery to create a community plan that empowers others to become evangelists for the overall mission.
 

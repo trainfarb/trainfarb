@@ -31,7 +31,7 @@
 **8.6.0 - Mythology - REFINE Story:** Review notes form metadata at the end of the day to define a creative story  
 
 **9.9.0 - Metadata - OWN Data:**
-- Daily Routine
+- Daily WWC Report
   - Woke up and wrote down dream in my phone (accidentally broke some dude's arm)
   - Went to the park to get morning light (based on huberman lab recommendation for better sleep)
   - Wrote in my 300 Writing Promts book (Write a diary entry 10 years in the future)
@@ -43,8 +43,8 @@
     - Can chapters in this book become the structure for how I create case studies for trainfarb?
   - Did the breathing practice from Multi Orgasmic Man
     - relate this to how I'll be creating a conscious content marketing strategy for myself
-- advancing the sOl 369myPI course by bringing clarity to my private course offering
-- outlining the value added to QM with sOl 369myPI
-- reviewing DEG's business proposal to inspire the website design
-- starting a case study for JR's Joyous Creation Sticker Packs
-- meeting with Wesley to clarify how we work together to achieve as much as posible
+- Outlining the sOl 369myPI One-on-One Course
+- Outlining the DevRel Process from QM Creation Cycle to sOl 369myPI 
+- Reviewing DEG's business proposal to Inspire wOl 369myPI
+- Completing sOl 369myPI for JR's Joyous Creation Sticker Packs
+- Defining Weekly Meeting Focus for Matador Harbor: Art of Recovery

@@ -19,7 +19,7 @@
 - Manifestation  
 
 **6.8.0 - Gamification - ELEVATE Engagement:** This process is adding to the revolution of time Protocol for 369myPI.
-- Protocol: [video link goes here]  
+- Protocol: [2022-09-02---1-mh-aor-at-grey-cafe---complete-sol-432ourpi-private-session](https://drive.google.com/file/d/1gjQkLqnDAOqzYfeoXmkaVarKprFM565u/view?usp=sharing)  
 
 **7.5.0 - Reporting - EXPRESS Vision:**
 - Meeting: Google Meet

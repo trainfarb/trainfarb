@@ -28,8 +28,9 @@
 
 **8.6.0 - Mythology - REFINE Story:** Apply notes from this to the worldbuilding  
 
-**9.9.0 - Metadata - OWN Data:**
-- Reviewing Notion file created by Wesley 
-  - 
-- Reviewing Matamorphosis FigJam file  
+**9.9.0 - Metadata - OWN Data:** 
 - Working through sOl 369myPI course  
+  - Wesley met with a friend who wants to start forming her own events
+  - She wants to help people learn about web3 and NFTs
+  - Goal of her company is how to get her true 1,000 fans within web3
+  - 

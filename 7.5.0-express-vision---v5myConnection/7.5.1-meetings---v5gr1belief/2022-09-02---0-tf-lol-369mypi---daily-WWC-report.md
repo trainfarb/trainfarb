@@ -44,7 +44,7 @@
   - Did the breathing practice from Multi Orgasmic Man
     - relate this to how I'll be creating a conscious content marketing strategy for myself
 - [Complete sOl 432ourPI Course for Matador Harbor: Art of Recovery](https://github.com/trainfarb/trainfarb/blob/main/7.5.0-express-vision---v5myConnection/7.5.1-meetings---v5gr1belief/2022-09-02---1-mh-aor-grey-cafe---defining-mh-aor-at-grey-cafe-space-activation-case-study.md)
-- Outlining the sOl 369myPI One-on-One Course
-- Outlining the DevRel Process from QM Creation Cycle to sOl 369myPI 
+- [JRsJC - Outline Sticker Pack Creation Process](https://github.com/trainfarb/trainfarb/blob/main/7.5.0-express-vision---v5myConnection/7.5.1-meetings---v5gr1belief/2022-09-02---2-jrsjc-sticker-pack---outline-upcoming-process.md)
+- Outlining the sOl 369myPI One-on-One Course via QM
 - Reviewing DEG's business proposal to Inspire wOl 369myPI
-- Completing sOl 369myPI for JR's Joyous Creation Sticker Packs
+

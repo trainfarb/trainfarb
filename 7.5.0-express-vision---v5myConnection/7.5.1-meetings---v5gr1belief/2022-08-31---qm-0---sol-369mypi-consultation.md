@@ -1,5 +1,5 @@
 ###### 7.5.1 Meetings [v5gr1belief]
-# Quantum MeMoir's sOl 369myPI Course: Follow Up Consultation
+# Quantum MeMoir's sOl 369myPI Course: Symbiotic Session
 Case Study: [sOl 369mPI Course](https://github.com/trainfarb/trainfarb/issues/3#issue-1343468506)
 
 ## Meeting Agenda

@@ -1,7 +1,7 @@
 ###### 2.0.0 INITIATE Mission - v0ourSource - lOl 369myPI
 ## ep0_freeDumb by trainfarb : lOl 369myPI
 ### Outline Today's Goals
-#### [YYYY-MM-DD]
+#### 2022-09-03
 
 | 0.7.0 Define PURPOSE | v7myJourney | trainfarb: lOl 369myPI - Outline Today's Goals |
 |:-------------|:-----|:-----------|
@@ -50,7 +50,7 @@
 | 6.8.0 ELEVATE Engagement | v8ourStory | Digital Card Game |
 |  |  v8gr0song | "Hard to Find - Peter Lyons Remix" by Strong Asian Mothers, Peter Lyons |
 | 6.8.1 Protocol |  v8gr1vision | Vid0: [2022-09-03---0-tf-lol-369mypi---start-session-agenda-template---1hr49m-13s](https://www.loom.com/share/b138f9ebf5154ddcaa77707f47332219) |
-|                |              | Vid1: |
+|                |              | Vid1: [2022-09-03---1-tf-lol-369mypi---daily-session---1h45m08s](https://www.loom.com/share/c1a2e47a8eca46b68b16c7080ce71d01) |
 |                |              | Vid2: |
 |                |              | Vid3: |
 | 6.8.2 Tokenomics |  v8gr2values | $30 for the 10 slide carousel NFT for the day??? |

@@ -6,7 +6,7 @@
 | 0.7.0 Define PURPOSE | v7myJourney | trainfarb: [CASE STUDY] [PURPOSE OF SESSION] |
 |:-------------|:-----|:-----------|
 |  |  v7gr0song | "Different State of Mind" by Kid Bloom |
-|  |  v7gr1ecology | [sOl 369myPI by cohortBased] Define Your Vocation's Nucleus: Bring Clarity to How You Educate Others About Your Inner Purpose (in 30 mins)  |
+|  |  v7gr1ecology | [sOl 369myPI by cohortBased] Define Your Vocation's Nucleus: Bring Clarity to How You Educate Others About How You Define Your Inner Purpose (in 30 mins)  |
 |  |  v7gr2physiology | [wOl 369myPI by mycelialMemes] Populate Your Vocation's Cytoplasm: Creating the Infrastructure That Grounds Your Operations (in 30 mins) |
 |  |  v7gr3sociology | [lOl 369myPI by polymathProcess] Mobilize Your Vocation's Organelles: Crafting the Language That Initiates Your Mission (in ## mins) |
 

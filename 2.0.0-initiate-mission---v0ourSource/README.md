@@ -20,7 +20,7 @@
 |  |  v0gr0song | "Bambi" by Hippo Campus |
 |  |  v0gr1ego |        |
 |  |  v0gr2biomimicry |         |
-|  |  v0gr2willpower |         |
+|  |  v0gr2willpower |  |
 
 | 3.2.0 INTEND Design | v2myHome | I am a DevRel Bodhisattva. |
 |:-------------|:-----|:-----------|

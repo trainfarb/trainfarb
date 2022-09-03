@@ -89,9 +89,9 @@
 - 300 Writing Prompts: "Give your city (or town or revieon) a new name that reflects what type of place it is, and explain why you chose that name."
   - Chicago --> Censorgo
 - 30 minute reading The Multi OM
-  - Orgasm = Income
-  - Multiple Orgasms = Passive Income
-  - Ejaculation = Proof-of-Work
+  - O = Income
+  - Multi O = Passive Income
+  - Ej = Proof-of-Work
 - 30m Multi OMp
 - 10m Cranial Massage
 - Shower Listening to [Archangel Michael, Book One, On Wings of Light: Talk One](https://youtu.be/VAugr9rdWPs). Will incorporate this into the mythology. This is a comic book series that trainfarb finds. It inspires him to pursue his vocation.

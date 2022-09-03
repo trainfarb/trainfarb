@@ -3,20 +3,20 @@
 ### [Agenda Focus]
 #### [YYYY-MM-DD]
 
-| 0.7.0 Define PURPOSE | v7myJourney | ep0_freeDumb by trainfarb |
+| 0.7.0 Define PURPOSE | v7myJourney | ep0_freeDumb by trainfarb: [PURPOSE OF SESSION] |
 |:-------------|:-----|:-----------|
 |  |  v7gr0song | "Different State of Mind" by Kid Bloom |
-|  |  v7gr1ecology | [sOl 369myPI by cohortBased] Defining Your Vocation's Nucleus: Bring Clarity to How You Educate Others About Your Inner Purpose (in 30 mins)  |
-|  |  v7gr2physiology | [wOl 369myPI by mycelialMemes] Outlining Your Vocation's Cytoplasm: Creating the Infrastructure That Grounds Your Operations (in 30 mins) |
-|  |  v7gr3sociology | [lOl 369myPI by polymathProcess] Structuring Your Vocation's Proteins: Crafting the Language That Initiates Your Mission (in ## mins) |
+|  |  v7gr1ecology | [sOl 369myPI by cohortBased] Define Your Vocation's Nucleus: Bring Clarity to How You Educate Others About Your Inner Purpose (in 30 mins)  |
+|  |  v7gr2physiology | [wOl 369myPI by mycelialMemes] Populate Your Vocation's Cytoplasm: Creating the Infrastructure That Grounds Your Operations (in 30 mins) |
+|  |  v7gr3sociology | [lOl 369myPI by polymathProcess] Mobilize Your Vocation's Organelles: Crafting the Language That Initiates Your Mission (in ## mins) |
 
-| 1.1.0 GROUND Operations | v1ourHome | Developer Relations |
+| 1.1.0 GROUND Operations | v1ourHome | Developer Relations: [HOW SESSION SUPPORTS OPERATIONS] |
 |:-------------|:-----|:-----------|
 |  |  v1gr0song | "Bemyself" by Parcels |
 |  |  v1gr1decentralization |         |
 |  |  v1gr2space |         |
 |  |  v1gr3time |         |
-| 2.0.0 INITIATE Mission | v0ourSource | Developer Advocate |
+| 2.0.0 INITIATE Mission | v0ourSource | Developer Advocate: [OUTLINE OF SESSION OBJECTIVES] |
 |  |  v0gr0song | "Bambi" by Hippo Campus |
 |  |  v0gr1ego |        |
 |  |  v0gr2biomimicry |         |

@@ -16,7 +16,7 @@
 | 1.1.1 Contributors |  v1gr1decentralization | trainfarb; DEG Entreprises; Matador Harbor; Quantum MeMoir |
 | 1.1.2 Deliverables |  v1gr2space | lOl 369myPI - Create Session Template & Today's Agenda |
 |  |             | wOl 369myPI - Reverse Engineer DEG's Investment Business Model Deck |
-|  |             | bOl 369myPI - Turn Submarine and Warship Sketch into an SVG |
+|  |             | wOl 369myPI - Turn Submarine and Warship Sketch into an SVG |
 |  |             | sOl 369myPI - Finalize QM Responses as NFT and Carousel |
 | 1.1.3 Roadmap |  v1gr3time  | 2hr max for each item |
 |  |  |  |

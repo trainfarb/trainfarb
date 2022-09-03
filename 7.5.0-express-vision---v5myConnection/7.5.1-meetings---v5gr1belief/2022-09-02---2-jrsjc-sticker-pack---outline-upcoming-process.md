@@ -30,7 +30,7 @@
 
 **9.9.0 - Metadata - OWN Data:** 
 - Added the following items to the [Case Study](https://github.com/trainfarb/trainfarb/issues/16#issue-1359680230)
-  - [ ] #19
-  - [ ] #20
-  - [ ] #21
-  - [ ] #22
+  - Complete sOl 369myPI for JRsJC Sticker Pack #19
+  - Complete wOl 369myPI for JRsJC Sticker Pack #20
+  - Publish Sticker Pack Template to Figma Community #21
+  - Create course that shows people how to cut and package sticker pack #22

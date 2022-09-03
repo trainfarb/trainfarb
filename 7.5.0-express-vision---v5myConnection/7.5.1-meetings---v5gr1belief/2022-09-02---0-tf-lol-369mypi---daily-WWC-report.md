@@ -45,6 +45,6 @@
     - relate this to how I'll be creating a conscious content marketing strategy for myself
 - [Complete sOl 432ourPI Course for Matador Harbor: Art of Recovery](https://github.com/trainfarb/trainfarb/blob/main/7.5.0-express-vision---v5myConnection/7.5.1-meetings---v5gr1belief/2022-09-02---1-mh-aor-grey-cafe---defining-mh-aor-at-grey-cafe-space-activation-case-study.md)
 - [JRsJC - Outline Sticker Pack Creation Process](https://github.com/trainfarb/trainfarb/blob/main/7.5.0-express-vision---v5myConnection/7.5.1-meetings---v5gr1belief/2022-09-02---2-jrsjc-sticker-pack---outline-upcoming-process.md)
-- Outlining the sOl 369myPI One-on-One Course via QM
+- [sOl 369myPI - QM Meeting Review to Define Symbiotic Session Script](https://github.com/trainfarb/trainfarb/blob/main/7.5.0-express-vision---v5myConnection/7.5.1-meetings---v5gr1belief/2022-09-03---3-tf-sol-369mypi---qm-mtg-review-to-define-one-on-one-session-script.md)
 - Reviewing DEG's business proposal to Inspire wOl 369myPI
 

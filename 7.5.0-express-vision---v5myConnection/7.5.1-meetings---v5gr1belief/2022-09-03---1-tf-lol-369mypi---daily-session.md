@@ -6,9 +6,9 @@
 | 0.7.0 Define PURPOSE | v7myJourney | trainfarb: lOl 369myPI - Outline Today's Goals |
 |:-------------|:-----|:-----------|
 |  |  v7gr0song | "Different State of Mind" by Kid Bloom |
-|  |  v7gr1ecology | [sOl 369myPI by cohortBased] Program Your Vocation's Nucleus: Educate Yourself and Others About How to Clearly Define Your Inner Purpose (in 30 mins)  |
-|  |  v7gr2physiology | [wOl 369myPI by mycelialMemes] Populate Your Vocation's Cytoplasm: Create the Infrastructure That Grounds Your Operations (in 30 mins) |
-|  |  v7gr3sociology | [lOl 369myPI by polymathProcess] Mobilize Your Vocation's Organelles: Develop the Language Protocol That Initiates Your Mission (in ## mins) |
+| 0.7.1 Public Documentation |  v7gr1ecology | [sOl 369myPI by cohortBased] Program Your Vocation's Nucleus: Educate Yourself and Others About How to Clearly Define Your Inner Purpose (in 30 mins)  |
+| 0.7.2 Symbiotic Session |  v7gr2physiology | [wOl 369myPI by mycelialMemes] Populate Your Vocation's Cytoplasm: Create the Infrastructure That Grounds Your Operations (in 30 mins) |
+| 0.7.3 Cohort Based Course |  v7gr3sociology | [lOl 369myPI by polymathProcess] Mobilize Your Vocation's Organelles: Develop the Language Protocol That Initiates Your Mission (in ## mins) |
 
 | 1.1.0 GROUND Operations | v1ourHome | Developer Relations: [HOW SESSION SUPPORTS OPERATIONS] |
 |:-------------|:-----|:-----------|

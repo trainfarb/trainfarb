@@ -31,7 +31,7 @@
 **8.6.0 - Mythology - REFINE Story:** Review notes form metadata at the end of the day to define a creative story  
 
 **9.9.0 - Metadata - OWN Data:**
-- Daily WWC Report
+- lOl 369myPI Metadata
   - Woke up and wrote down dream in my phone (accidentally broke some dude's arm)
   - Went to the park to get morning light (based on huberman lab recommendation for better sleep)
   - Wrote in my 300 Writing Promts book (Write a diary entry 10 years in the future)

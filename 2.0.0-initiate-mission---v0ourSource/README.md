@@ -1,6 +1,6 @@
 ###### 2.0.0 INITIATE Mission - v0ourSource - lOl 369myPI
-## [Case Study Title]
-### [Agenda Focus]
+## [BMO]: [CASE STUDY TITLE]
+### [Session PURPOSE / FOCUS]
 #### [YYYY-MM-DD]
 
 | 0.7.0 Define PURPOSE | v7myJourney | ep0_freeDumb by trainfarb: [PURPOSE OF SESSION] |

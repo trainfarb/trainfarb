@@ -49,7 +49,7 @@
 |  |  |  |
 | 6.8.0 ELEVATE Engagement | v8ourStory | Digital Card Game |
 |  |  v8gr0song | "Hard to Find - Peter Lyons Remix" by Strong Asian Mothers, Peter Lyons |
-| 6.8.1 Protocol |  v8gr1vision | Vid0 |
+| 6.8.1 Protocol |  v8gr1vision | Vid0: [2022-09-03---0-tf-lol-369mypi---start-session-agenda-template---1hr49m-13s](https://www.loom.com/share/b138f9ebf5154ddcaa77707f47332219) |
 |                |              | Vid1 |
 |                |              | Vid2 |
 |                |              | Vid3 |

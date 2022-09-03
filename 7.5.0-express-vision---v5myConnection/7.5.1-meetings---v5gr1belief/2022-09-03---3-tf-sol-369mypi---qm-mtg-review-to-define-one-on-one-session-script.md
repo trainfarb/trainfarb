@@ -23,7 +23,7 @@
 - Manifestation: Case study that will get others excited about Q.Me Collective and sOl 369myPI Symbiotic Sessions  
 
 **6.8.0 - Gamification - ELEVATE Engagement:** 
-- Protocol: [video to go here]  
+- Protocol: [2022-09-02---3-tf-sol-369mypi---qm-mtg-review-to-define-symbiotic-session-script---2h18m10s](https://www.loom.com/share/6c31a5e03a3347df9eae0e6ba49ff4c5)  
 
 **7.5.0 - Reporting - EXPRESS Vision:**
 - Meeting: Loom video

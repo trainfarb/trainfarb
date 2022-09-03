@@ -6,9 +6,9 @@
 | 0.7.0 Define PURPOSE | v7myJourney | ep0_freeDumb by trainfarb |
 |:-------------|:-----|:-----------|
 |  |  v7gr0song | "Different State of Mind" by Kid Bloom |
-|  |  v7gr1ecology | [sOl 369myPI] Defining Your Vocation's Nucleus: Bring Clarity to How You Educate Others About Your Inner Purpose (in 30 mins)  |
-|  |  v7gr2physiology | [wOl 369myPI] Outlining Your Vocation's Cytoplasm: Creating the Infrastructure That Grounds Your Operations (in 30 mins) |
-|  |  v7gr3sociology | [lOl 369myPI] Structuring Your Vocation's Proteins: Crafting the Language That Initiates Your Mission (in ## mins) |
+|  |  v7gr1ecology | [sOl 369myPI by cohortBased] Defining Your Vocation's Nucleus: Bring Clarity to How You Educate Others About Your Inner Purpose (in 30 mins)  |
+|  |  v7gr2physiology | [wOl 369myPI by mycelialMemes] Outlining Your Vocation's Cytoplasm: Creating the Infrastructure That Grounds Your Operations (in 30 mins) |
+|  |  v7gr3sociology | [lOl 369myPI by polymathProcess] Structuring Your Vocation's Proteins: Crafting the Language That Initiates Your Mission (in ## mins) |
 
 | 1.1.0 GROUND Operations | v1ourHome | Developer Relations |
 |:-------------|:-----|:-----------|

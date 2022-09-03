@@ -1,9 +1,9 @@
 ###### 2.0.0 INITIATE Mission - v0ourSource - lOl 369myPI
-## [BMO]: [CASE STUDY TITLE]
-### [Session PURPOSE / FOCUS]
+## [EP by BMO]: [CASE STUDY]
+### [SESSION PURPOSE]
 #### [YYYY-MM-DD]
 
-| 0.7.0 Define PURPOSE | v7myJourney | ep0_freeDumb by trainfarb: [PURPOSE OF SESSION] |
+| 0.7.0 Define PURPOSE | v7myJourney | trainfarb: [CASE STUDY] [PURPOSE OF SESSION] |
 |:-------------|:-----|:-----------|
 |  |  v7gr0song | "Different State of Mind" by Kid Bloom |
 |  |  v7gr1ecology | [sOl 369myPI by cohortBased] Define Your Vocation's Nucleus: Bring Clarity to How You Educate Others About Your Inner Purpose (in 30 mins)  |

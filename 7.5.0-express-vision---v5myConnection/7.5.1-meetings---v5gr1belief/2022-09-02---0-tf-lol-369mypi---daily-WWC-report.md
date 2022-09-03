@@ -1,7 +1,7 @@
-**daily report: trainfarb**  
+**lOl 369myPI daily report: trainfarb**  
 **Friday, September 2, 2022**  
   
-**0.7.0 - Onboarding - Define PURPOSE:** Complete daily report for [today](https://github.com/trainfarb/trainfarb/issues/15#issue-1359680199)  
+**0.7.0 - Onboarding - Define PURPOSE:** Complete lOl 369myPI daily report for [today](https://github.com/trainfarb/trainfarb/issues/15#issue-1359680199)  
 **1.1.0 - Community Plan - GROUND Operations:** This daily practice will be a good way for me to improve my storytelling and ability to create concise case studies.  
 **2.0.0 - Project Brief - INITIATE Mission:** Today I'm focused on: 
 - bringing more clarity to my daily routine
@@ -21,7 +21,7 @@
 - I'm manifesting case studies for everyone I work with to prove the value that's provided in my proposals  
 
 **6.8.0 - Gamification - ELEVATE Engagement:** This process is adding to the revolution of time Protocol for 369myPI.
-- Protocol: [video link goes here]  
+- Protocol: [2022-09-02---0-tf---organize-daily-report-format](https://www.loom.com/share/f93f0a0928334c6ba4c37c17cea9a632)
 
 **7.5.0 - Reporting - EXPRESS Vision:**
 - Meeting: These notes represent the meeting

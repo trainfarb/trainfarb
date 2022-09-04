@@ -73,3 +73,6 @@
 | 9.9.3 Metadata |  v9gr3metadata | See Below |
 
 # Metadata
+- Worked through everything in the video
+- Exported outlines to svg and png
+- png is exported in black and blue-red

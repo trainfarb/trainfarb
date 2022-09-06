@@ -10,8 +10,8 @@ Morning Routine
 - [x] 33 pushups
 - [x] 300 Writing Prompts: "You are the wind's interpreter. What is it saying?"
   - 'Smell me if you date. I'm 3.69% farts."
-- [ ] 30min Reading: The Multi OM
-- [ ] 30min Multi OM Practice
+- [x] 30min Reading: The Multi OM
+- [x] 30min Multi OM Practice
 - [ ] 10min Cranial Massage
 - [ ] Shower Listening to [Archangel Michael, Book One, On Wings of Light: Talk Two](https://youtu.be/VAugr9rdWPs)
 

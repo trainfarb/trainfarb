@@ -1,7 +1,7 @@
 ###### 2.0.0 INITIATE Mission - v0ourSource - lOl 369myPI
 ## ep0_freeDumb by trainfarb
 ### Outline Today's Goals
-#### 2022-09-03
+#### 2022-09-05
 
 Morning Routine
 - [x] Wake up: 0730cst
@@ -17,8 +17,8 @@ Morning Routine
 
 Today's Goals (Case Study / Task)
 - [ ] lOl 369myPI Course (language of life) - Create metadata structure for 9.9.0
-- [ ] iOl (infrastructure of love) 432ourPI - Reverse Engineer DEG Investment Business Model Deck for 1.1.0
-- [ ] eOl (education of life) 369myPI Course - 
+- [ ] iOl 432ourPI Course (infrastructure of love) - Reverse Engineer DEG Investment Business Model Deck for 1.1.0
+- [ ] eOl 369myPI Course (education of life) - Finalize QM Responses as NFT for 0.7.0
 
 lOl 369myPI (Today's Notes)
 - Gemoetry of Design: What is Sacred Geometry

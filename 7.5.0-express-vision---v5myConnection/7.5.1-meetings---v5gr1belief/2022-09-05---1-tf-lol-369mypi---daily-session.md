@@ -6,7 +6,7 @@
 Morning Routine
 - [x] Wake up: 0730cst
 - [x] Make Bed
-- [ ] 64oz of H20 before 1200cst
+- [x] 64oz of H20 before 1200cst
 - [x] 33 pushups
 - [x] 300 Writing Prompts: "You are the wind's interpreter. What is it saying?"
   - 'Smell me if you date. I'm 3.69% farts."

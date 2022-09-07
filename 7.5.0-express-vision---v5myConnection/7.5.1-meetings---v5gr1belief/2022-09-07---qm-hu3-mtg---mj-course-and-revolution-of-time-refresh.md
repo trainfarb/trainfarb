@@ -56,7 +56,7 @@ EXPRESS Vision [v5myConnection]:
 - [2022-09-07---qm-hu3-mtg---mj-course-and-revolution-of-time-refresh.md]()
   - Selected final responses and photos for QM's myJourney 432ourPI Course Cert
   - Brought trainfarb back in line with the current lunar cycle
-- [2022-09-07---tf-v0os-432ourpi-course---clarify-meeting-minute-outline]()
+- [2022-09-07---tf-v0os-432ourpi-course---clarify-meeting-minute-outline](https://www.loom.com/share/4ce7a4d3cf934472a315689591ec1367)
   - Created a clearer outline for how to organize meeting agendas and notes
   - Filled added tasks originated during this meeting session
   - Created a lunar cycle task list in issues

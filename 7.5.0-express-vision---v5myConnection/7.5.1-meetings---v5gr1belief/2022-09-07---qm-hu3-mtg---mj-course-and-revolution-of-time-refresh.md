@@ -38,8 +38,8 @@ OBSERVE Market [v3ourAwareness]:
 CONNECT Community [v4ourConnection]:
 - Create/Gratitude/Manifest
   - [x] Share lunar cycle thought form to quantummemoir.com [tf]
-  - [ ] Finalize myJourney 432ourPI Course Certificate for Q.Me Collective [tf]
-  - [ ] Send Q.Me Collective's myJourney 432ourPI Course Certs to MaLee [tf]
+  - [x] Finalize myJourney 432ourPI Course Certificate for Q.Me Collective [tf]
+  - [x] Send Q.Me Collective's myJourney 432ourPI Course Certs to MaLee [tf]
   - [ ] Review [8/31 Meeting Video](https://drive.google.com/file/d/1VA-IJQcItJNcFLz-zjCG7yEWAW_3pNiv/view?usp=sharing) to populate Q.Me Collective's myJourney 432ourPI Overview (carousel & brochure) [tf]
   - [ ] Send Q.Me Collective's myJourney 432ourPI Overview to MaLee for edits [tf]
   - [ ] Review The Futur Case Study Course to create beatDrop Framework DRAFT [tf]

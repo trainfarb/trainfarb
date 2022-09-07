@@ -1,4 +1,4 @@
-###### 2.0.0 INITIATE Mission - v0ourSource - lOl 369myPI
+###### 2.0.0 INITIATE Mission - v0ourSource - mOl 369myPI
 ## ep0_freeDumb by trainfarb
 ### Outline Today's Goals
 #### 2022-09-05
@@ -16,11 +16,11 @@ Morning Routine
 - [ ] Shower Listening to [Archangel Michael, Book One, On Wings of Light: Talk Two](https://youtu.be/VAugr9rdWPs)
 
 Today's Goals (Case Study / Task)
-- [ ] lOl 369myPI Course (language of life) - Create metadata structure for 9.9.0
-- [ ] iOl 432ourPI Course (infrastructure of love) - Reverse Engineer DEG Investment Business Model Deck for 1.1.0
-- [ ] eOl 369myPI Course (education of life) - Finalize QM Responses as NFT for 0.7.0
+- [ ] mOl 369myPI Course (language of life) - Create metadata structure for 9.9.0
+- [ ] cOl 432ourPI Course (infrastructure of love) - Reverse Engineer DEG Investment Business Model Deck for 1.1.0
+- [ ] cOl 369myPI Course (education of life) - Finalize QM Responses as NFT for 0.7.0
 
-lOl 369myPI (Today's Notes)
+mOl 369myPI (Today's Notes)
 - Gemoetry of Design: What is Sacred Geometry
   - [What Is Sacred Geometry?](https://youtu.be/OCk7AgTKkx0)
   - Video lays out beautifully the connection betweek 369myPI and 432ourPI

@@ -1,4 +1,3 @@
-![myjourney-432ourpi-course-cert---qm---img1-resp0-label0---1x1](https://user-images.githubusercontent.com/8133349/188997643-f8691870-9d22-4e74-b1c7-d358cce6702d.png)
 ![myjourney-432ourpi-course-cert---qm---img1-resp0-label0---1x1](https://user-images.githubusercontent.com/8133349/188997666-21526782-34df-4abc-9fd1-0ce6fdb73868.png)
 ![myjourney-432ourpi-course-cert---qm---img1-resp0-label0---4x5](https://user-images.githubusercontent.com/8133349/188997670-b1c142e7-63d5-4722-874c-3fd9d67841cb.png)
 ![myjourney-432ourpi-course-cert---qm---img1-resp0-label0---9x16](https://user-images.githubusercontent.com/8133349/188997672-ff1e0786-4041-4962-9deb-412d551118a6.png)

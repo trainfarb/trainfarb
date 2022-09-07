@@ -32,9 +32,9 @@ ep0_freeDumb is a collaborative mythology focused on exploring how censorship th
 - 4.3.3 Content Strategy [v3gr3music]
 
 ### 5.4.0 Portfolio - CONNECT Community [v4ourConnection]
-- 5.4.1 Portfolio [v4gr1create]
+- 5.4.1 Proposals [v4gr1create]
 - 5.4.2 Acknowledgements [v4gr2gratitude]
-- 5.4.3 Value Proposition [v4gr3manifest]
+- 5.4.3 [Portfolio [v4gr3manifest]](https://github.com/trainfarb/trainfarb/tree/main/5.4.0-connect-community---v4ourConnection/5.4.3-portfolio---v4gr3manifest)
 
 ### 6.8.0 Gamification - ELEVATE Engagement [v8ourStory]
 - 6.8.1 Protocol [v8gr1vision]

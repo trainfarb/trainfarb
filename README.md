@@ -6,7 +6,7 @@ Inspired by Jason Silva’s ability to translate complex topics for a wide audie
 ep0_freeDumb is a collaborative mythology focused on exploring how censorship throughout humanity’s language institution translates to individuals self-censoring themselves from defining the lives they actually want to live.  
 
 ## Table of Contents
-### 0.7.0 Onboarding - Define PURPOSE [v7myJourney]
+### 0.7.0 Onboarding Courses - Define PURPOSE [v7myJourney]
 - 0.7.1 Public Courses [v7gr1ecology]
 - 0.7.2 Personal Courses [v7gr2physiology]
 - 0.7.3 Cohort Based Courses [v7gr3sociology]
@@ -16,7 +16,7 @@ ep0_freeDumb is a collaborative mythology focused on exploring how censorship th
 - 1.1.2 Deliverables [v1gr2space]
 - 1.1.3 Roadmap [v1gr3time]
 
-### 2.0.0 Project Brief - INITIATE Mission [v0ourSource]
+### 2.0.0 Project Mission - INITIATE Mission [v0ourSource]
 - 2.0.1 Challenge [v0gr1ego]
 - 2.0.2 Inspiration [v0gr2biomimicry]
 - 2.0.3 Abstract [v0gr3willpower]

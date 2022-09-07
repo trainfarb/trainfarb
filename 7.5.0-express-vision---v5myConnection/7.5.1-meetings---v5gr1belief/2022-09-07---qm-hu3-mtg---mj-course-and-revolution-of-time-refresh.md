@@ -53,18 +53,20 @@ ELEVATE Engagement [v8ourPurpose]:
 EXPRESS Vision [v5myConnection]:
 - [2022-09-07---qm-v7mj-432ourpi-course---draft-v7myjourney-432ourpi-course-cert---0h27m44s](https://www.loom.com/share/6f8bf9c7c6164df08679df12e8f4711e)
   - Created a draft of Q.Me Collective's myJourney 432ourPI Course Certification
-- [2022-09-07---qm-hu3-mtg---mj-course-and-revolution-of-time-refresh.md]()
+- [2022-09-07---qm-hu3-mtg---mj-course-and-revolution-of-time-refresh.md](https://drive.google.com/file/d/12rNoOllRJwfbZoCvHxBMzXbleNkT5XPk/view?usp=sharing)
   - Selected final responses and photos for QM's myJourney 432ourPI Course Cert
   - Brought trainfarb back in line with the current lunar cycle
 - [2022-09-07---tf-v0os-432ourpi-course---clarify-meeting-minute-outline](https://www.loom.com/share/4ce7a4d3cf934472a315689591ec1367)
   - Created a clearer outline for how to organize meeting agendas and notes
   - Filled added tasks originated during this meeting session
   - Created a lunar cycle task list in issues
+- [2022-09-07---tf-v7mj-432ourpi-course---finalize-course-cert]
+  - Finalize Q.Me Collective myJourney 432ourPI Course
+  - Publish Q.Me Collective myJourney 432ourPI Course Cert to Figma Community
+  - Export all three sizes in 3 different versions to google drive
+  - Share google drive link with MaLee on Discord
+  - Upload all versions in a portfolio folder in GitHub
+  - Link to Portfolio folder from GitHub Profile
+  - Include placeholder for links for Instagram, Behance, Substack, and GitHub case study to ensure I create a case study for these Course Certs
 
 REFINE Story [v6ourStory]: ['Pure Imagination' by Willy Wonka](https://youtu.be/LIYNk4ARUR8)
-
-
-
-
-
-

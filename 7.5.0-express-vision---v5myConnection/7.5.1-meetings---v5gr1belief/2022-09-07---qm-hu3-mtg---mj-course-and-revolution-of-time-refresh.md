@@ -60,7 +60,7 @@ EXPRESS Vision [v5myConnection]:
   - Created a clearer outline for how to organize meeting agendas and notes
   - Filled added tasks originated during this meeting session
   - Created a lunar cycle task list in issues
-- [2022-09-07---tf-v7mj-432ourpi-course---finalize-course-cert]
+- [2022-09-07---tf-v7mj-432ourpi-course---finalize-course-cert---1h49m01s](https://www.loom.com/share/1135299140d24a4793109ad055ac66b1)
   - Finalize Q.Me Collective myJourney 432ourPI Course
   - Publish Q.Me Collective myJourney 432ourPI Course Cert to Figma Community
   - Export all three sizes in 3 different versions to google drive

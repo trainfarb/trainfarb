@@ -36,16 +36,15 @@ Discuss Oogah's Masheetda concept and explore how it fits with Matador Harbor: T
 - trainfarb: "[Ecosystem Marketer slogan TBD]"
 
 ## CONNECT Community [v4ourConnection]:
-- Create/Gratitude/Manifest
-  - [ ] Publish Masheetda inner purpose and course offering [v7myJourney - Define PURPOSE]
-  - [ ] Publish decentralized community plan for Masheetda [v1ourHome - GROUND Operations]
-  - [ ] Publish decentralized mission statements for Masheetda [v0ourSource - INITIATE Mission]
-  - [ ] Publish Masheetda style guide [v2myHome - INTEND Design]
-  - [ ] Publish ecosystem marketing strategy for Masheetda [v3ourAwareness - OBSERVE Market]
-  - [ ] Publish portfolio design for Masheetda [v4ourConnection - CONNECT Community]
-  - [ ] Publish gamification protocol for Masheetda [v8ourPurpose - ELEVATE Engagement]
-  - [ ] Publish case study for Masheetda [v5myConnection - EXPRESS Vision]
-  - [ ] Publish decentralized brand story for Masheetda [v6ourJourney - REFINE Story]
+- [ ] Publish Masheetda inner purpose and course offering [v7myJourney - Define PURPOSE]
+- [ ] Publish decentralized community plan for Masheetda [v1ourHome - GROUND Operations]
+- [ ] Publish decentralized mission statements for Masheetda [v0ourSource - INITIATE Mission]
+- [ ] Publish Masheetda style guide [v2myHome - INTEND Design]
+- [ ] Publish ecosystem marketing strategy for Masheetda [v3ourAwareness - OBSERVE Market]
+- [ ] Publish portfolio design for Masheetda [v4ourConnection - CONNECT Community]
+- [ ] Publish gamification protocol for Masheetda [v8ourPurpose - ELEVATE Engagement]
+- [ ] Publish case study for Masheetda [v5myConnection - EXPRESS Vision]
+- [ ] Publish decentralized brand story for Masheetda [v6ourJourney - REFINE Story]
 
 ## ELEVATE Engagement [v8ourPurpose]:
 - Oogah: [Content Oogah wants to share related to this meeting]

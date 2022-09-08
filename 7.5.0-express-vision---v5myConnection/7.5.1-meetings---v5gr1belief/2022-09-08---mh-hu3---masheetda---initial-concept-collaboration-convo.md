@@ -53,13 +53,13 @@ Discuss Oogah's Masheetda concept and explore how it fits with Matador Harbor: T
   - gr6v3consciousness
 
 ## EXPRESS Vision [v5myConnection]:
-- [2022-09-08---mh-hu3---masheetda---initial-concept-collaboration-convo]
+- [2022-09-08---mh-hu3---masheetda---initial-concept-collaboration-convo](https://drive.google.com/file/d/1UfNZKQM6krAQu0MZvDPlQKOedGaLmKRi/view?usp=sharing)
   - Wesley introduces concepts for Masheetda
   - Explore how Masheetda relates to The Art of Recovery
   - Define next steps for collaboration
     - Jacques to help Wesley organize Masheetda vision (will add to Jacques' resume)
     - Wesley to help Jacques create music (will serve as an example for how others can join PANGIUM)
-- [2022-09-08---mh-hu3---masheetda---meeting-notes-organization]
+- [2022-09-08---mh-hu3---masheetda---meeting-notes-organization](https://www.loom.com/share/afd77e548c9f4c04a6c6dddc633e5de2)
   - Organize this document to start tracking progress
 
 ## REFINE Story [v6ourStory]:

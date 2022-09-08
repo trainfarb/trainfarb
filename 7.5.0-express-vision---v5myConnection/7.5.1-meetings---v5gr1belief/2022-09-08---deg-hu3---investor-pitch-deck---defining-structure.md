@@ -52,7 +52,7 @@ Review updated version of DEG's Investment and Business Model deck in relation t
   - gr4v3manifest
 
 ## EXPRESS Vision [v5myConnection]:
-- [2022-09-08---deg-hu3---investor-pitch-deck---defining-structure.md]()
+- [2022-09-08---deg-hu3---investor-pitch-deck---defining-structure.md](https://www.loom.com/share/9880f89456084f16aa0405836ca61d52)
 - Watch [How to Create a Pitch Deck for Investors in 2022](https://www.youtube.com/watch?v=SB16xgtFmco) by Slidebean to define pitch outline
   - Introduction: Present case, problem, premise, and proposed solution. Can you capture their attention?
     - Cover

@@ -1,11 +1,11 @@
 ###### 7.5.1 EXPRESS Vision - v5myConnection 369myPI
-## Masheetda: Restaurant Marketing & myJourney 369myPI Course
-### Matador Harbor [Oogah]
-#### 2022-09-08
+# Masheetda: Restaurant Marketing & myJourney 369myPI Course
+#### Matador Harbor [Oogah] --- 2022-09-08
 
-Define PURPOSE [v7myJourney]: Discuss Oogah's Masheetda concept and explore how it fits with Matador Harbor: The Art of Recovery.
+## Define PURPOSE [v7myJourney]
+Discuss Oogah's Masheetda concept and explore how it fits with Matador Harbor: The Art of Recovery.
 
-GROUND Operations [v1ourHome]: 
+## GROUND Operations [v1ourHome]: 
 - Collaborators [v1gr1decentralization]
   - Oogah [og]
   - trainfarb (Jacques) [tf]
@@ -16,7 +16,7 @@ GROUND Operations [v1ourHome]:
   - Start Time: 1130 CST
   - End Time: 1230 CST
 
-INITIATE Mission [v0ourSource]:
+## INITIATE Mission [v0ourSource]:
 - Challenge [v0gr1ego]
   - Oogah: Trying to figure out how to make money with PANGIUM/Matador Harbor. 
   - trainfarb: Trying to create tangible examples that I can add to my portfolio.
@@ -27,15 +27,15 @@ INITIATE Mission [v0ourSource]:
   - Oogah: How can trainfarb help Oogah create a course (developer advocate) and community plan/mission statement (project engineer) for Masheetda?
   - trainfarb: How can Oogah help trainfarb add to his portfolio and teach him how to create music for 3breathsat3?
 
-INTEND Design [v2myHome]:
+## INTEND Design [v2myHome]:
 - Oogah: "[Masheetda slogan TBD]"
 - trainfarb: "I am a **Ecosystem Marketing** Bodhisattva."
 
-OBSERVE Market [v3ourAwareness]:
+## OBSERVE Market [v3ourAwareness]:
 - Oogah: "[Masheetda slogan TBD]"
 - trainfarb: "[Ecosystem Marketer slogan TBD]"
 
-CONNECT Community [v4ourConnection]:
+## CONNECT Community [v4ourConnection]:
 - Create/Gratitude/Manifest
   - [ ] Publish Masheetda inner purpose and course offering [v7myJourney - Define PURPOSE]
   - [ ] Publish decentralized community plan for Masheetda [v1ourHome - GROUND Operations]
@@ -47,13 +47,13 @@ CONNECT Community [v4ourConnection]:
   - [ ] Publish case study for Masheetda [v5myConnection - EXPRESS Vision]
   - [ ] Publish decentralized brand story for Masheetda [v6ourJourney - REFINE Story]
 
-ELEVATE Engagement [v8ourPurpose]:
+## ELEVATE Engagement [v8ourPurpose]:
 - Oogah: [Content Oogah wants to share related to this meeting]
 - trainfarb: "Is humanity ready for a transformation of consciousness, an inner flowering so radical and profound that compared to it the flowering of plants, no matter how beautiful, is only a pale reflection?" 
   - Are businesses and institutions ready for a transformation of consciousness?
   - gr6v3consciousness
 
-EXPRESS Vision [v5myConnection]:
+## EXPRESS Vision [v5myConnection]:
 - [2022-09-08---mh-hu3---masheetda---initial-concept-collaboration-convo]
   - Wesley introduces concepts for Masheetda
   - Explore how Masheetda relates to The Art of Recovery
@@ -63,4 +63,5 @@ EXPRESS Vision [v5myConnection]:
 - [2022-09-08---mh-hu3---masheetda---meeting-notes-organization]
   - Organize this document to start tracking progress
 
-REFINE Story [v6ourStory]: ['MASHEETDA' by Oogah](https://drive.google.com/file/d/1GXFojt_NYWztANIgRBInj4-BXY8kzidB/view?usp=sharing)
+## REFINE Story [v6ourStory]:
+['MASHEETDA' by Oogah](https://drive.google.com/file/d/1GXFojt_NYWztANIgRBInj4-BXY8kzidB/view?usp=sharing)

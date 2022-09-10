@@ -35,9 +35,9 @@ Run through how to draw the v7myJourney course map and walking through each resp
 
 ## ELEVATE Engagement [v8ourPurpose]:
 - [ ] Publish lp7_curriculumDesigner inner purpose [v7myJourney - Define PURPOSE]
-  - [####-##-## Notebook]
-  - [####-##-## Instagram]
-  - [####-##-## Figma Community Presentation]
+  - [####-##-## 0-Notebook-Draft-Discord]
+  - [####-##-## 1-Figma-Community-Presentation-Discord]
+  - [####-##-## 2-Instagram-Discord]
 - [ ] Publish decentralized community plan for lp7_curriculumDesigner [v1ourHome - GROUND Operations]
 - [ ] Publish decentralized mission statements for lp7_curriculumDesigner [v0ourSource - INITIATE Mission]
 - [ ] Publish lp7_curriculumDesigner style guide [v2myHome - INTEND Design]

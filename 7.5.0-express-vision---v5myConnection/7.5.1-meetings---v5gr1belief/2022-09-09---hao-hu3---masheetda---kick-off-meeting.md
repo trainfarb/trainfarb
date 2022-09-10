@@ -55,11 +55,11 @@ Running through myJourney for Masheetda and exploring how to make beats with Sou
   
 ## EXPRESS Vision [v5myConnection]:
 2022-09-09 [hanÆone-hu3agency] Masheetda: Kick-Off Meeting
-- [2022-09-09---hao-hu3---masheetda---kick-off-meeting---#h##m##s](https://drive.google.com/file/d/1_Ug6dcyWXFax4KxyRr21Yxmj_0WV1RIk/view?usp=sharing)
-  - Completed **v7myJourney 432ourPI Course: Define Masheetda's Inner Purpose** in FigJam
-  - Designed v7myJourney 432ourPI NFT in Figma
+- [2022-09-09---hao-hu3---masheetda---kick-off-meeting---3h36m47s](https://drive.google.com/file/d/1_Ug6dcyWXFax4KxyRr21Yxmj_0WV1RIk/view?usp=sharing)
+  - Completed **v7myJourney 432ourPI Course: Define Masheetda's Inner Purpose** in [FigJam](https://www.figma.com/file/nP8HsMeRL7o6o0anL0R2lN/MATAMOR%5BHOSIS?node-id=266%3A699)
+  - Designed v7myJourney 432ourPI NFT in [Figma](https://www.figma.com/file/cZtseZVv5rA8jDpspgcb8e/MaHa---Art-of-Recovery---Electronic-Press-Kit?node-id=5%3A54)
   - Published v7myJourney 432ourPI NFT to Instagram (trainfarb/ourLongPlay) as Proof-of-Work
-- [2022-09-09---hao-hu3---masheetda---meeting-notes-organization]()
+- [2022-09-09---hao-hu3---masheetda---meeting-notes-organization---0h54m48s](https://www.loom.com/share/274fb63b635540dcaee2ebc838cc36a1)
   - Published v7myJourney 432ourPI NFT to Figma Community as Proof-of-Work
   - Updated structure of meeting notes to track progress of overall course in ELEVATE Engagement section
 

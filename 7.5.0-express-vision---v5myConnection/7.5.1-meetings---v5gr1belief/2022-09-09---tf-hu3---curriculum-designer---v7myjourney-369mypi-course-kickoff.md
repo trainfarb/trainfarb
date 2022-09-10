@@ -35,7 +35,7 @@ Run through how to draw the v7myJourney course map and walking through each resp
 
 ## ELEVATE Engagement [v8ourPurpose]:
 - [ ] Publish lp7_curriculumDesigner inner purpose [v7myJourney - Define PURPOSE]
-  - [####-##-## 0-Notebook-Draft-Discord]
+  - [2022-09-09 0-Notebook-Draft-Discord](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/trainfarb/0-v7myjourney-369mypi-0-notebook-draft-discord.md)
   - [####-##-## 1-Figma-Community-Presentation-Discord]
   - [####-##-## 2-Instagram-Discord]
 - [ ] Publish decentralized community plan for lp7_curriculumDesigner [v1ourHome - GROUND Operations]
@@ -51,10 +51,11 @@ Run through how to draw the v7myJourney course map and walking through each resp
 ## EXPRESS Vision [v5myConnection]:
 2022-09-09 [trainfarb-hu3agency] lp7_curriculumDesign: v7myJourney 369myPI Kick-Off Meeting
 - [2022-09-09---tf-hu3---curriculum-designer---v7myjourney-369mypi-course-kickoff---0h55m45s](https://www.loom.com/share/3543d98c39384e67a409631f26db313d)
-  - [Completed **v7myJourney 369myPI Course: Define and Sell Your Vocation's PURPOSE** in my notebook]
-- [2022-09-09---hao-hu3---masheetda---meeting-notes-organization---0h54m48s](https://www.loom.com/share/274fb63b635540dcaee2ebc838cc36a1)
-  - Published v7myJourney 432ourPI NFT to Figma Community as Proof-of-Work
-  - Updated structure of meeting notes to track progress of overall course in ELEVATE Engagement section
+  - Completed **v7myJourney 369myPI Course: Define and Sell Your Vocation's PURPOSE** in my notebook
+- [2022-09-09---tf-hu3---curriculum-designer---v7myjourney-369mypi-meeting-notes-organization---42m51s](https://www.loom.com/share/46251a98d86e4ceab21daa78ef05d445)
+  - Cleaned up notes to reflect results of the meeting
+  - Added folder for trainfarb in the ELEVATE Engagement folder so I can start tracking the protocol milestones in a single place
+  - Uploaded notebook draft to github and shared to discord
 
 ## REFINE Story [v6ourStory]:
-['MASHEETDA' by Oogah](https://drive.google.com/file/d/1GXFojt_NYWztANIgRBInj4-BXY8kzidB/view?usp=sharing)
+['Different State of Mind' by Kid Bloom](https://open.spotify.com/track/0ZA43HPPeTVV7hPoFlLeR2)

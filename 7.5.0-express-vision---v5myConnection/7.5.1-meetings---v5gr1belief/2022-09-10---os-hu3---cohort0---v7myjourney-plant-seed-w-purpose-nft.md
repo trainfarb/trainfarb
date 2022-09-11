@@ -83,8 +83,10 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 - [ ] TBD: Publish decentralized mission statements for ourStoryBMO: ep0_cohort [v0ourSource - INITIATE Mission]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] Healthy Intentions: Publish ourStoryBMO: ep0_cohort style guide [v2myHome - INTEND Design]
+  - [x] [2022-09-10 Share DRAFT Course Cert for Feedback](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort0/DRAFT-v7myjourney-432ourpi-course-cert---hi---img1-resp1-label0---1x1.png)
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] theynoh: Publish ecosystem marketing strategy for ourStoryBMO: ep0_cohort [v3ourAwareness - OBSERVE Market]
+  - [x] [2022-09-10 Share DRAFT Course Cert for Feedback](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort0/DRAFT-v7myjourney-432ourpi-course-cert---tn---img1-resp1-label0---1x1.png)
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] TBD: Publish portfolio design for ourStoryBMO: ep0_cohort [v4ourConnection - CONNECT Community]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
@@ -93,6 +95,7 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 - [ ] trainfarb: Publish case study for ourStoryBMO: ep0_cohort [v5myConnection - EXPRESS Vision]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] RM Bodhi: Publish decentralized brand story for ourStoryBMO: ep0_cohort [v6ourJourney - REFINE Story]
+  - [x] [2022-09-10 Share DRAFT Course Cert for Feedback](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort0/DRAFT-v7myjourney-432ourpi-course-cert---rmb---img1-resp1-label0---1x1.png)
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] TBD: Publish metadata for ourStoryBMO: ep0_cohort [v7myJournal - OWN Data]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]

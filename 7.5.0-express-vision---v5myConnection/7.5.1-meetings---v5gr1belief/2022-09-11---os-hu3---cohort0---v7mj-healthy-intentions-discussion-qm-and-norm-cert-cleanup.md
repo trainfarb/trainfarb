@@ -103,8 +103,8 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 - [ ] TBD: Publish portfolio design for ourStoryBMO: ep0_cohort [v4ourConnection - CONNECT Community]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] TBD: Publish gamification protocol for ourStoryBMO: ep0_cohort [v8ourPurpose - ELEVATE Engagement]
-  - [x] [2022-09-11 v7myJourney Certifications to GitHub](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/huStory/v7myjourney-432ourpi-course-cert---hS-ournorm.md)
-  - [x] [2022-09-11 Publish v7myJourney Course Cert to Figma Community](https://www.figma.com/community/file/1150694266790360049)
+  - [ ] []
+  - [ ] []
 - [ ] ournOrm: Publish case study for ourStoryBMO: ep0_cohort [v5myConnection - EXPRESS Vision]
   - [x] [2022-09-11 Publish v7mJ Course Cert to Figma Community](https://www.figma.com/community/file/1150694266790360049)
   - [x] [2022-09-11 Publish v7mJ Course Cert to Google Drive](https://drive.google.com/drive/folders/1YKb1Tf3ANPdL-R9xdt4Jlk7aSdnUhb2H?usp=sharing)
@@ -127,6 +127,13 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 - [2022-09-10---os-hu3---cohort0---v7myjourney-design-draft-course-certs---3h21m59s](https://www.loom.com/share/519978d533264039a268e1b39db0174e)
   - Send course cert draft to RM Bodhi, Healthy Intentions, and They Noh on Discord
   - Published ournOrm's course cert to figjam and uploaded to github
+2022-09-11 [ourStoryBMO] cohort0: v7myJourney 432ourPI Course - Finalizing HI, QM, ournOrm Certs - Draft of They Noh
+- [2022-09-11---os-hu3---cohort0---v7mj-healthy-intentions-discussion-qm-norm-theynoh-cert-cleanup.md]
+  - Healthy Intentions and ournOrm on a call to clarify HI responses and images
+  - ournOrm clarify folder structure and engagement protocol for completing certifications
+  - ournOrm update QM certification and share to discord
+  - ournOrm update ournOrm certification and share to discord
+  - ournOrm create updated draft of They Noh cert and shared to discord for response
 
 ## REFINE Story [v6ourStory]:
 - Quantum MeMoir: "Pure Imagination" by Willy Wonka

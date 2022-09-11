@@ -98,10 +98,11 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
   
 ## EXPRESS Vision [v5myConnection]:
-2022-09-09 [ourStoryBMO] cohort0: v7myJourney 432ourPI Course
+2022-09-10 [ourStoryBMO] cohort0: v7myJourney 432ourPI Course
 - [2022-09-10---os-hu3---cohort0---v7myjourney-organize-meeting-notes---56m37s](https://www.loom.com/share/39724d20f31e4e3db13f86740b23694b)
   - Put existing responses from cohort0 into this document
   - Ask group to reschedule tomorrow's call
+- [2022-09-10---os-hu3---cohort0---v7myjourney-design-draft-course-certs]
 
 ## REFINE Story [v6ourStory]:
 - Quantum MeMoir: "Pure Imagination" by Willy Wonka

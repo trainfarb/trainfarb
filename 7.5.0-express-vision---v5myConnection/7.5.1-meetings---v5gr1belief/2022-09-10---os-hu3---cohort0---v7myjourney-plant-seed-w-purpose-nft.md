@@ -107,7 +107,7 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 - [2022-09-10---os-hu3---cohort0---v7myjourney-organize-meeting-notes---56m37s](https://www.loom.com/share/39724d20f31e4e3db13f86740b23694b)
   - Put existing responses from cohort0 into this document
   - Ask group to reschedule tomorrow's call
-- [2022-09-10---os-hu3---cohort0---v7myjourney-design-draft-course-certs]
+- [2022-09-10---os-hu3---cohort0---v7myjourney-design-draft-course-certs---3h21m59s](https://www.loom.com/share/519978d533264039a268e1b39db0174e)
   - Send course cert draft to RM Bodhi, Healthy Intentions, and They Noh on Discord
   - Published ournOrm's course cert to figjam and uploaded to github
 

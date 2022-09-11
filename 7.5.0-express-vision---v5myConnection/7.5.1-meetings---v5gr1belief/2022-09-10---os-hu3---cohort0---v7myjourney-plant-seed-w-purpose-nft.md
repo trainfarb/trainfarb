@@ -92,7 +92,8 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 - [ ] TBD: Publish portfolio design for ourStoryBMO: ep0_cohort [v4ourConnection - CONNECT Community]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] TBD: Publish gamification protocol for ourStoryBMO: ep0_cohort [v8ourPurpose - ELEVATE Engagement]
-  - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
+  - [ ] [2022-09-11 v7myJourney Certifications to GitHub](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/huStory/v7myjourney-432ourpi-course-cert---hS-ournorm.md)
+  - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community](https://www.figma.com/community/file/1150694266790360049)
 - [ ] ournOrm: Publish case study for ourStoryBMO: ep0_cohort [v5myConnection - EXPRESS Vision]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] RM Bodhi: Publish decentralized brand story for ourStoryBMO: ep0_cohort [v6ourJourney - REFINE Story]

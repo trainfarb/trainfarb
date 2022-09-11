@@ -77,7 +77,7 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 
 ## ELEVATE Engagement [v8ourPurpose]:
 - [ ] Quantum MeMoir: Publish ourStoryBMO: ep0_cohort lesson plan [v7myJourney - Define PURPOSE]
-  - [ ] [2022-09-07 Publish v7myJourney Course Cert to Figma Community](https://www.figma.com/community/file/1149472904455285897)
+  - [x] [2022-09-07 Publish v7myJourney Course Cert to Figma Community](https://www.figma.com/community/file/1149472904455285897)
   - [ ] [####-##-## Publish v7myJourney Lesson Plan Figma Community and Instagram]
 - [ ] TBD: Publish decentralized community plan for ourStoryBMO: ep0_cohort [v1ourHome - GROUND Operations]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
@@ -92,8 +92,8 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 - [ ] TBD: Publish portfolio design for ourStoryBMO: ep0_cohort [v4ourConnection - CONNECT Community]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] TBD: Publish gamification protocol for ourStoryBMO: ep0_cohort [v8ourPurpose - ELEVATE Engagement]
-  - [ ] [2022-09-11 v7myJourney Certifications to GitHub](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/huStory/v7myjourney-432ourpi-course-cert---hS-ournorm.md)
-  - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community](https://www.figma.com/community/file/1150694266790360049)
+  - [x] [2022-09-11 v7myJourney Certifications to GitHub](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/huStory/v7myjourney-432ourpi-course-cert---hS-ournorm.md)
+  - [x] [2022-09-11 Publish v7myJourney Course Cert to Figma Community](https://www.figma.com/community/file/1150694266790360049)
 - [ ] ournOrm: Publish case study for ourStoryBMO: ep0_cohort [v5myConnection - EXPRESS Vision]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] RM Bodhi: Publish decentralized brand story for ourStoryBMO: ep0_cohort [v6ourJourney - REFINE Story]
@@ -108,10 +108,12 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
   - Put existing responses from cohort0 into this document
   - Ask group to reschedule tomorrow's call
 - [2022-09-10---os-hu3---cohort0---v7myjourney-design-draft-course-certs]
+  - Send course cert draft to RM Bodhi, Healthy Intentions, and They Noh on Discord
+  - Published ournOrm's course cert to figjam and uploaded to github
 
 ## REFINE Story [v6ourStory]:
 - Quantum MeMoir: "Pure Imagination" by Willy Wonka
 - Healthy Intentions: "TBD" by TBD
 - theynoh: "TBD" by TBD
-- trainfarb: "TBD" by TBD
+- trainfarb: "You Were Right" by RÜFÜS DU SOL
 - RM Bodhi: "TBD" by TBD

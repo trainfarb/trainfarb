@@ -78,6 +78,7 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
 ## ELEVATE Engagement [v8ourPurpose]:
 - [ ] Quantum MeMoir: Publish ourStoryBMO: ep0_cohort lesson plan [v7myJourney - Define PURPOSE]
   - [ ] [2022-09-07 Publish v7myJourney Course Cert to Figma Community](https://www.figma.com/community/file/1149472904455285897)
+  - [ ] [####-##-## Publish v7myJourney Lesson Plan Figma Community and Instagram]
 - [ ] TBD: Publish decentralized community plan for ourStoryBMO: ep0_cohort [v1ourHome - GROUND Operations]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] TBD: Publish decentralized mission statements for ourStoryBMO: ep0_cohort [v0ourSource - INITIATE Mission]
@@ -92,7 +93,7 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] TBD: Publish gamification protocol for ourStoryBMO: ep0_cohort [v8ourPurpose - ELEVATE Engagement]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
-- [ ] trainfarb: Publish case study for ourStoryBMO: ep0_cohort [v5myConnection - EXPRESS Vision]
+- [ ] ournOrm: Publish case study for ourStoryBMO: ep0_cohort [v5myConnection - EXPRESS Vision]
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] RM Bodhi: Publish decentralized brand story for ourStoryBMO: ep0_cohort [v6ourJourney - REFINE Story]
   - [x] [2022-09-10 Share DRAFT Course Cert for Feedback](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort0/DRAFT-v7myjourney-432ourpi-course-cert---rmb---img1-resp1-label0---1x1.png)

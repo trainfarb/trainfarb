@@ -90,10 +90,10 @@ Present the team's v7myJourney DRAFT Course Certificates so they can choose fina
   - [ ] [####-##-## Publish v7myJourney Course Cert to Figma Community]
 - [ ] Healthy Intentions: Publish ourStoryBMO: ep0_cohort style guide [v2myHome - INTEND Design]
   - [x] [2022-09-10 Share DRAFT Course Cert for Feedback](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort0/DRAFT-v7myjourney-432ourpi-course-cert---hi---img1-resp1-label0---1x1.png)
-  - [ ] [2022-09-11 Publish v7mJ Course Cert to Figma Community](https://www.figma.com/community/file/1150838075316972648)
-  - [ ] [2022-09-11 Publish v7mJ Course Cert to Google Drive](https://drive.google.com/drive/folders/1WFufJZzOB4pRn7h6gL_YOtBDwwRKBPWO?usp=sharing)
-  - [ ] [2022-09-11 Publish v7mJ Course Cert to GitHub](https://github.com/trainfarb/trainfarb/tree/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort-0/v7mJ-432ourpi-define-and-sell-your-communitys-purpose/healthy-intentions)
-  - [ ] [2022-09-11 Publish v7mJ Course Cert to Discord](https://discord.com/channels/905585156507701278/984118631640223874/1018562491829207071)
+  - [x] [2022-09-11 Publish v7mJ Course Cert to Figma Community](https://www.figma.com/community/file/1150838075316972648)
+  - [x] [2022-09-11 Publish v7mJ Course Cert to Google Drive](https://drive.google.com/drive/folders/1WFufJZzOB4pRn7h6gL_YOtBDwwRKBPWO?usp=sharing)
+  - [x] [2022-09-11 Publish v7mJ Course Cert to GitHub](https://github.com/trainfarb/trainfarb/tree/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort-0/v7mJ-432ourpi-define-and-sell-your-communitys-purpose/healthy-intentions)
+  - [x] [2022-09-11 Publish v7mJ Course Cert to Discord](https://discord.com/channels/905585156507701278/984118631640223874/1018562491829207071)
 - [ ] theynoh: Publish ecosystem marketing strategy for ourStoryBMO: ep0_cohort [v3ourAwareness - OBSERVE Market]
   - [x] [2022-09-10 Share DRAFT Course Cert for Feedback](https://github.com/trainfarb/trainfarb/blob/main/6.8.0-elevate-engagement---v8ourStory/6.8.3-game---v8gr3play/ourstory-cohort0/DRAFT-v7myjourney-432ourpi-course-cert---tn---img1-resp1-label0---1x1.png)
   - [ ] [2022-09-11 Publish v7mJ Course Cert to Figma Community]

@@ -1,4 +1,4 @@
-![Image](https://github.com/trainfarb/trainfarb/blob/main/3.2.0-intend-design---v2myHome/3.2.2-components---v2gr2body/sol-369mpi-portfolio-presentation-header---trainfarb-ep0-freedumb.png)
+![0 9 0_b27 tf_Platform Cover Photo](https://github.com/trainfarb/trainfarb/assets/8133349/591263d6-da12-4baf-8245-b941d5c529bb)
 Sak pase? My name’s Jacques, and I help people create meaningful vocations and/or open source communities.  
   
 Inspired by Jason Silva’s ability to translate complex topics for a wide audience, I translate the processes that control our society into simple tutorials that help people take creative control of their own lives.  

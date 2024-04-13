@@ -69,6 +69,6 @@ OWNER:
 - lp9_CLO
 - ep9_freeDumb
 
-PRODUCER: trainfarb
-PROVIDER: hu3agency
-CONSUMER: ourStory
+PRODUCER: trainfarb  
+PROVIDER: hu3agency  
+CONSUMER: ourStory 
